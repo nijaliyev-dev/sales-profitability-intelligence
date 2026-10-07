@@ -836,4 +836,10 @@ The largest opportunities are not necessarily in generating more sales, but in c
 
 Feel free to explore the repository, review the SQL workflow, inspect the Python analysis, and examine the Power BI dashboard.
 
-**Built by Nijat Aliyev with SQL Server, Python and Power BI.**
+👤 Author
+
+Nijat Aliyev
+
+GitHub: @nijaliyev-dev
+
+Specializations: Data Analysis, Business Intelligence, SQL Optimization, Python, Power BI Data Modeling.
