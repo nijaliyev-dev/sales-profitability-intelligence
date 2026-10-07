@@ -1,0 +1,1176 @@
+product_id,product_name,orders,quantity,revenue,profit,profit_margin,profitability_segment
+PROD-000001,Apple Sharable bifurcated algorithm Smartphones,270,630,383695.4006347656,82987.17002308369,21.628398434225183,High Revenue / High Profit
+PROD-000002,Google User-centric even-keeled encryption Smartphones,273,585,514716.8296508789,208532.64004135132,40.514051227505895,High Revenue / High Profit
+PROD-000003,LG Face-to-face client-driven support Smartphones,314,702,175650.19970703125,42724.720069497824,24.3237526292363,High Revenue / High Profit
+PROD-000004,Sony Customer-focused systematic support Smartphones,292,643,626745.3315429688,260939.499874115,41.63405561102697,High Revenue / High Profit
+PROD-000005,OnePlus Quality-focused background parallelism Smartphones,250,540,617996.4611816406,240547.0904006958,38.92370029769386,High Revenue / High Profit
+PROD-000006,Apple Optimized 5thgeneration algorithm Smartphones,291,604,240344.8005065918,89289.02987933159,37.150389644848055,High Revenue / High Profit
+PROD-000007,HP Cross-group didactic emulation Smartphones,281,584,397199.9307861328,146524.14002680779,36.88926625359908,High Revenue / High Profit
+PROD-000008,Samsung Profit-focused real-time algorithm Smartphones,289,613,213276.39999389648,80265.3898897171,37.63444520444556,High Revenue / High Profit
+PROD-000009,LG Realigned dedicated structure Smartphones,299,627,449364.0397338867,120105.25953006744,26.727830647328553,High Revenue / High Profit
+PROD-000010,Asus Streamlined tangible moratorium Smartphones,291,635,499070.03009033203,155559.53986012936,31.169882076864635,High Revenue / High Profit
+PROD-000011,Samsung Operative directional knowledge user Smartphones,288,602,531115.3008422852,210336.079744339,39.60271515634575,High Revenue / High Profit
+PROD-000012,LG Reverse-engineered even-keeled workforce Smartphones,276,567,733710.2619628906,168060.1997550726,22.905526672812528,High Revenue / High Profit
+PROD-000013,HP Adaptive well-modulated workforce Smartphones,314,710,374262.0601196289,151640.939702034,40.51731550175393,High Revenue / High Profit
+PROD-000014,Lenovo Diverse tangible interface Smartphones,280,597,415148.6396484375,170961.6302833557,41.18082391601525,High Revenue / High Profit
+PROD-000015,Microsoft Mandatory even-keeled collaboration Smartphones,251,522,115959.080078125,26735.69997882843,23.056150463435735,High Revenue / Low Profit
+PROD-000016,Google Extended well-modulated Graphical User Interface Laptops,297,624,590885.6494750977,215964.54013341665,36.549295168238515,High Revenue / High Profit
+PROD-000017,Dell Customer-focused background implementation Laptops,255,540,444673.19805908203,178655.85962677002,40.17688954642881,High Revenue / High Profit
+PROD-000018,Sony Cross-platform heuristic hardware Laptops,288,607,645999.9097290039,139234.2599029541,21.553294018471718,High Revenue / High Profit
+PROD-000019,Dell Robust empowering workforce Laptops,297,641,567918.6878662109,136623.41973114014,24.056862830920892,High Revenue / High Profit
+PROD-000020,Apple Balanced upward-trending knowledgebase Laptops,283,641,259338.17993164062,108767.51006317139,41.94041544204621,High Revenue / High Profit
+PROD-000021,Apple Public-key bottom-line implementation Laptops,251,536,345683.3503417969,133980.66002082825,38.75820455001779,High Revenue / High Profit
+PROD-000022,Dell Configurable neutral frame Laptops,272,581,347955.4515991211,131244.0498199463,37.71863588191523,High Revenue / High Profit
+PROD-000023,Samsung Self-enabling regional hierarchy Tablets,269,567,195375.9905090332,49727.519981220365,25.452216442593656,High Revenue / High Profit
+PROD-000024,Asus Re-engineered content-based strategy Tablets,275,546,745064.6085205078,212900.06089639664,28.574711301769824,High Revenue / High Profit
+PROD-000025,HP Cloned 6thgeneration protocol Tablets,264,555,104804.20991516113,26197.519970804453,24.996629421672385,High Revenue / Low Profit
+PROD-000026,Asus Focused zero administration frame Tablets,271,612,631433.8623046875,169849.94981336594,26.899087925602537,High Revenue / High Profit
+PROD-000027,OnePlus Configurable discrete attitude Tablets,293,619,365298.5905151367,147254.82984161377,40.31081248738408,High Revenue / High Profit
+PROD-000028,Dell Multi-tiered even-keeled knowledgebase Tablets,276,631,580346.930847168,217096.78904271126,37.4081049633194,High Revenue / High Profit
+PROD-000029,LG Sharable high-level complexity Tablets,292,627,338482.1295776367,122015.25972151756,36.04777004734935,High Revenue / High Profit
+PROD-000030,Samsung Multi-layered heuristic database Tablets,294,658,606952.6721801758,145807.5595664978,24.02288782134472,High Revenue / High Profit
+PROD-000031,Microsoft Synchronized encompassing standardization Tablets,272,566,181070.93048095703,49614.10984134674,27.400372721100357,High Revenue / High Profit
+PROD-000032,Apple Synergized secondary archive Headphones,288,660,553259.4795532227,149315.98990774155,26.98841961611208,High Revenue / High Profit
+PROD-000033,Microsoft Robust scalable concept Headphones,256,547,422297.73974609375,138487.12948477268,32.793717903401046,High Revenue / High Profit
+PROD-000034,OnePlus Public-key upward-trending encryption Headphones,277,612,186154.53009033203,78397.56991243362,42.11424233103055,High Revenue / High Profit
+PROD-000035,Sony Diverse maximized implementation Headphones,294,659,359186.1896057129,115514.57008647919,32.16008115826565,High Revenue / High Profit
+PROD-000036,Dell Future-proofed scalable solution Headphones,265,596,281357.4097595215,97316.44017601013,34.58819167378151,High Revenue / High Profit
+PROD-000037,OnePlus Realigned directional software Headphones,315,670,306913.88946533203,132424.6001188755,43.147151257823324,High Revenue / High Profit
+PROD-000038,Google Inverse zero administration time-frame Headphones,278,614,227107.14022827148,52314.22005653381,23.035039763149403,High Revenue / High Profit
+PROD-000039,Xiaomi Centralized discrete alliance Headphones,294,589,542456.3106689453,133443.27000045776,24.599818893414373,High Revenue / High Profit
+PROD-000040,Google Intuitive impactful flexibility Smart Watches,271,538,223775.5106201172,59980.30993270874,26.803786422604446,High Revenue / High Profit
+PROD-000041,Sony Cloned didactic open system Smart Watches,241,539,606284.7297363281,146849.5302414894,24.221215385938212,High Revenue / High Profit
+PROD-000042,HP Universal foreground data-warehouse Smart Watches,284,612,188587.4096069336,71736.53010773659,38.038875584141394,High Revenue / High Profit
+PROD-000043,OnePlus Streamlined modular infrastructure Smart Watches,283,616,702936.5396728516,177654.30014801025,25.273163382670504,High Revenue / High Profit
+PROD-000044,LG Stand-alone logistical circuit Smart Watches,282,594,459636.3311767578,157977.94010686874,34.37020300427834,High Revenue / High Profit
+PROD-000045,Samsung Fundamental client-driven encryption Smart Watches,278,602,194786.66967773438,70921.93006849289,36.41005320632566,High Revenue / High Profit
+PROD-000046,Samsung User-friendly next generation monitoring Smart Watches,257,541,308549.57931518555,103750.36008024216,33.625182802229794,High Revenue / High Profit
+PROD-000047,HP Fundamental value-added paradigm Smart Watches,247,536,323230.70947265625,70693.86009311676,21.871022158894565,High Revenue / High Profit
+PROD-000048,Apple Optimized optimal initiative Smart Watches,265,613,297946.1706237793,101937.35974926874,34.213347845972635,High Revenue / High Profit
+PROD-000049,Xiaomi Multi-lateral directional challenge Smart Watches,271,546,280794.1601867676,120523.63049697876,42.922413492080324,High Revenue / High Profit
+PROD-000050,LG Profound modular array Smart Watches,273,608,468592.5220336914,201617.30999851227,43.02614756281069,High Revenue / High Profit
+PROD-000051,HP Versatile actuating budgetary management Smart Watches,280,600,738325.51953125,282126.4396249354,38.21166032620037,High Revenue / High Profit
+PROD-000052,Sony Distributed responsive complexity Smart Watches,257,545,413625.7413330078,93701.35038995743,22.65365547317786,High Revenue / High Profit
+PROD-000053,LG Synergized interactive policy Cameras,281,607,575080.91015625,147579.6097831726,25.662408050212466,High Revenue / High Profit
+PROD-000054,Asus Cloned human-resource implementation Cameras,278,585,594713.0191650391,207664.62998580933,34.91846038234792,High Revenue / High Profit
+PROD-000055,Google Right-sized maximized moderator Cameras,274,598,553254.2305297852,179184.6597366333,32.387399833355026,High Revenue / High Profit
+PROD-000056,HP Function-based neutral access Cameras,269,598,701172.0603027344,264969.6807398796,37.78953779554161,High Revenue / High Profit
+PROD-000057,HP Synergized uniform budgetary management Cameras,245,520,116502.85984802246,33212.660031318665,28.50802124054676,High Revenue / Low Profit
+PROD-000058,LG Synergized national system engine Cameras,296,615,123688.27005004883,38953.32999795675,31.493148042409196,High Revenue / Low Profit
+PROD-000059,Asus Future-proofed zero administration project Cameras,257,551,514057.1300048828,205720.14899873734,40.01892727308019,High Revenue / High Profit
+PROD-000060,Samsung Mandatory bifurcated frame Gaming Consoles,263,571,364476.4592895508,86488.9999089241,23.729653233986976,High Revenue / High Profit
+PROD-000061,Sony Optional cohesive knowledgebase Gaming Consoles,283,609,359774.33001708984,152572.0500831604,42.407708764522745,High Revenue / High Profit
+PROD-000062,OnePlus Adaptive uniform success Gaming Consoles,277,620,744579.5908203125,283973.85059547424,38.13881740736632,High Revenue / High Profit
+PROD-000063,Xiaomi Fundamental motivating task-force Gaming Consoles,287,618,699457.2397460938,220440.3698554039,31.515917961679087,High Revenue / High Profit
+PROD-000064,HP Enhanced motivating benchmark Gaming Consoles,274,591,274126.59002685547,114205.39001846313,41.66155133191374,High Revenue / High Profit
+PROD-000065,Xiaomi Self-enabling exuding productivity Gaming Consoles,289,640,807673.9117431641,255577.07992649078,31.643597274906522,High Revenue / High Profit
+PROD-000066,Microsoft Profit-focused real-time customer loyalty TVs,307,668,392167.6407470703,107786.57011795044,27.484819989895016,High Revenue / High Profit
+PROD-000067,Samsung Distributed holistic task-force TVs,253,550,664373.4494628906,173988.59031677246,26.18837198527916,High Revenue / High Profit
+PROD-000068,OnePlus Diverse needs-based time-frame TVs,278,590,163498.79959106445,64217.020027160645,39.276753216401126,High Revenue / High Profit
+PROD-000069,Microsoft Progressive 24hour policy TVs,285,575,504493.6004638672,216797.07997131348,42.97320714712235,High Revenue / High Profit
+PROD-000070,Apple Inverse mobile adapter TVs,239,510,492356.3603515625,218675.80015087128,44.414131259465776,High Revenue / High Profit
+PROD-000071,HP Customizable high-level workforce TVs,294,580,484714.5591430664,144092.02032661438,29.72719048946181,High Revenue / High Profit
+PROD-000072,Lenovo Integrated disintermediate approach TVs,276,580,257486.70022583008,71965.11004447937,27.949059109213014,High Revenue / High Profit
+PROD-000073,Google Front-line non-volatile artificial intelligence TVs,269,580,327754.6900024414,90612.3598484993,27.646396104301157,High Revenue / High Profit
+PROD-000074,Asus Configurable upward-trending matrix TVs,301,647,764598.7182617188,229439.67965221405,30.007855646663256,High Revenue / High Profit
+PROD-000075,Asus Cloned well-modulated monitoring TVs,266,580,172183.9401550293,62668.49990916252,36.39625150448855,High Revenue / High Profit
+PROD-000076,OnePlus Visionary clear-thinking capacity TVs,277,554,260748.87951660156,59447.06983113289,22.798590713540523,High Revenue / High Profit
+PROD-000077,OnePlus Switchable methodical neural-net TVs,300,627,775751.6494140625,239411.10042333603,30.861822930594734,High Revenue / High Profit
+PROD-000078,Xiaomi Down-sized empowering moderator TVs,287,619,472734.0297241211,145133.42056012154,30.70086167581774,High Revenue / High Profit
+PROD-000079,Cuisinart Robust interactive data-warehouse Refrigerators,269,607,132258.6795501709,46577.000084638596,35.21659239533698,High Revenue / High Profit
+PROD-000080,Electrolux Quality-focused web-enabled superstructure Refrigerators,299,628,68632.99993133545,24883.56004035473,36.25597025519754,Low Revenue / Low Profit
+PROD-000081,Whirlpool Team-oriented dedicated structure Refrigerators,267,587,393868.86920166016,107493.81980803609,27.291778612998087,High Revenue / High Profit
+PROD-000082,Cuisinart Integrated impactful secured line Refrigerators,288,622,201060.03979492188,108531.45003509521,53.9796222788952,High Revenue / High Profit
+PROD-000083,Whirlpool Streamlined holistic intranet Refrigerators,283,638,223210.37994384766,56920.93014677614,25.501022918869438,High Revenue / High Profit
+PROD-000084,Cuisinart Programmable local capability Refrigerators,279,596,367609.5104980469,168507.47964382172,45.83871603743968,High Revenue / High Profit
+PROD-000085,Dyson Fully-configurable directional architecture Refrigerators,274,613,382475.9582519531,175701.93000602722,45.938032499884585,High Revenue / High Profit
+PROD-000086,Miele Mandatory 3rdgeneration parallelism Washing Machines,283,617,267341.13946533203,73469.51012215018,27.481557933464813,High Revenue / High Profit
+PROD-000087,LG Reactive discrete parallelism Washing Machines,283,595,264006.6398925781,135646.72978258133,51.38004477378855,High Revenue / High Profit
+PROD-000088,LG Face-to-face 24hour archive Washing Machines,267,575,405661.5109863281,205062.82030391693,50.55022839246588,High Revenue / High Profit
+PROD-000089,Samsung Triple-buffered responsive approach Washing Machines,294,599,386566.9094848633,133906.5200611353,34.63993341788574,High Revenue / High Profit
+PROD-000090,Bosch Focused asymmetric alliance Washing Machines,285,616,342045.75009155273,161211.45989227295,47.13154887880429,High Revenue / High Profit
+PROD-000091,Samsung Managed asynchronous migration Washing Machines,284,656,394287.7595214844,128533.83979760855,32.59899317026728,High Revenue / High Profit
+PROD-000092,Electrolux Front-line even-keeled secured line Washing Machines,288,622,410283.18994140625,165235.4598083496,40.27351445521016,High Revenue / High Profit
+PROD-000093,Panasonic Pre-emptive didactic moratorium Washing Machines,283,607,356712.5813598633,129570.43980312347,36.32348466913439,High Revenue / High Profit
+PROD-000094,Dyson De-engineered uniform orchestration Microwaves,278,626,369134.52032470703,110663.30972754955,29.979127833995374,High Revenue / High Profit
+PROD-000095,Panasonic Re-engineered methodical encryption Microwaves,248,518,171439.63986206055,89762.97994995117,52.35835774163665,High Revenue / High Profit
+PROD-000096,Bosch Phased incremental core Microwaves,271,561,64937.61979675293,26284.999947071075,40.47730734409425,Low Revenue / Low Profit
+PROD-000097,Bosch Cross-platform bandwidth-monitored protocol Microwaves,270,612,167197.30993652344,64396.50001788139,38.51527278897583,High Revenue / High Profit
+PROD-000098,Dyson Optional heuristic interface Microwaves,268,542,64312.880027770996,20621.449975132942,32.064261414242964,Low Revenue / Low Profit
+PROD-000099,LG Open-source maximized superstructure Microwaves,243,514,88467.48008728027,34975.80000495911,39.53520544549553,Low Revenue / Low Profit
+PROD-000100,Whirlpool Business-focused systematic projection Microwaves,263,572,130824.33982849121,48931.24017119408,37.40224505267308,High Revenue / High Profit
+PROD-000101,Electrolux Stand-alone bandwidth-monitored approach Microwaves,242,513,65049.450019836426,25769.890084028244,39.61584621571724,Low Revenue / Low Profit
+PROD-000102,Miele Open-architected upward-trending Graphical User Interface Microwaves,285,636,309631.4995422363,105207.47992038727,33.97828711740489,High Revenue / High Profit
+PROD-000103,Whirlpool Customer-focused dynamic core Microwaves,264,581,237254.99996948242,106296.50002098083,44.80263852591242,High Revenue / High Profit
+PROD-000104,Whirlpool Ergonomic national knowledge user Microwaves,285,649,171974.87997436523,73544.05008220673,42.76441425234271,High Revenue / High Profit
+PROD-000105,LG Devolved interactive contingency Microwaves,285,621,68166.38983917236,19030.13997542858,27.91718913136978,Low Revenue / Low Profit
+PROD-000106,Cuisinart Grass-roots maximized encryption Microwaves,282,582,315805.8604736328,141586.6300201416,44.83343969861602,High Revenue / High Profit
+PROD-000107,Dyson Compatible leadingedge workforce Air Conditioners,275,614,115291.88027954102,53345.72985744476,46.27015339510528,High Revenue / High Profit
+PROD-000108,Bosch Reactive bandwidth-monitored application Air Conditioners,287,612,326361.60958862305,116486.15002059937,35.69235675955561,High Revenue / High Profit
+PROD-000109,Electrolux Streamlined needs-based access Air Conditioners,259,546,372650.94158935547,125433.31022024155,33.659732532881506,High Revenue / High Profit
+PROD-000110,Miele Cross-group web-enabled encoding Air Conditioners,259,560,268412.7297973633,116843.64990615845,43.531336980317185,High Revenue / High Profit
+PROD-000111,Bosch Down-sized incremental matrix Air Conditioners,267,562,180665.15036010742,62712.66005015373,34.71209578889614,High Revenue / High Profit
+PROD-000112,Bosch Polarized didactic initiative Air Conditioners,297,643,106161.3201751709,55866.820053100586,52.624458664340125,High Revenue / High Profit
+PROD-000113,Dyson Centralized composite implementation Air Conditioners,302,659,398570.8500366211,130842.97023844719,32.828033015065,High Revenue / High Profit
+PROD-000114,LG Adaptive human-resource firmware Air Conditioners,306,702,108142.21995544434,43786.28013420105,40.4895332759411,High Revenue / High Profit
+PROD-000115,Cuisinart Persevering executive interface Air Conditioners,262,579,117308.49977111816,49913.430013656616,42.54886057791484,High Revenue / High Profit
+PROD-000116,Panasonic Total upward-trending toolset Air Conditioners,279,592,275957.26934814453,97828.33016455173,35.450535655624506,High Revenue / High Profit
+PROD-000117,Whirlpool Realigned stable structure Air Conditioners,258,594,192785.91995239258,70831.19025230408,36.7408523764575,High Revenue / High Profit
+PROD-000118,Whirlpool Pre-emptive coherent core Air Conditioners,248,525,328819.7702636719,119280.37997627258,36.275306646137736,High Revenue / High Profit
+PROD-000119,Cuisinart Implemented didactic approach Air Conditioners,302,680,94189.1900177002,34659.840000629425,36.7981081418325,High Revenue / Low Profit
+PROD-000120,Dyson Reduced user-facing moratorium Vacuum Cleaners,269,601,277399.6400756836,80568.41988396645,29.044168861208608,High Revenue / High Profit
+PROD-000121,Electrolux Centralized value-added functionalities Vacuum Cleaners,279,602,201733.40991210938,73849.5199278593,36.60748111085509,High Revenue / High Profit
+PROD-000122,Samsung Centralized actuating paradigm Vacuum Cleaners,278,601,260446.39944458008,73879.98000478745,28.366673589015473,High Revenue / High Profit
+PROD-000123,Samsung Polarized motivating moderator Vacuum Cleaners,288,626,431942.7405395508,126607.6100859642,29.31120220421239,High Revenue / High Profit
+PROD-000124,Bosch Diverse analyzing migration Vacuum Cleaners,276,586,79470.97998809814,40005.470027685165,50.339721535680724,Low Revenue / Low Profit
+PROD-000125,LG Configurable contextually-based architecture Vacuum Cleaners,267,551,84862.36982727051,30501.910061240196,35.94279787769775,Low Revenue / Low Profit
+PROD-000126,Electrolux Right-sized asymmetric service-desk Vacuum Cleaners,268,616,178248.68981933594,54260.53005027771,30.440913818369996,High Revenue / High Profit
+PROD-000127,Whirlpool Front-line impactful capability Vacuum Cleaners,310,652,389357.6195678711,181160.21014165878,46.52797352282963,High Revenue / High Profit
+PROD-000128,LG Re-contextualized dynamic paradigm Coffee Makers,280,622,320560.6000366211,114575.93008422852,35.742361996807865,High Revenue / High Profit
+PROD-000129,Samsung Right-sized 6thgeneration process improvement Coffee Makers,284,580,312183.9006347656,95822.95973587036,30.694395047609085,High Revenue / High Profit
+PROD-000130,Bosch Configurable intangible protocol Coffee Makers,288,628,126183.27973937988,40870.039872169495,32.38942588636375,High Revenue / Low Profit
+PROD-000131,Dyson Reduced non-volatile model Coffee Makers,277,597,415805.47052001953,175173.0100288391,42.128596771409036,High Revenue / High Profit
+PROD-000132,Whirlpool Intuitive empowering database Coffee Makers,265,545,318841.45025634766,146575.1296157837,45.97116513487744,High Revenue / High Profit
+PROD-000133,Whirlpool Synchronized transitional functionalities Blenders,297,672,417675.56115722656,176431.43974494934,42.241264788421475,High Revenue / High Profit
+PROD-000134,KitchenAid Front-line empowering infrastructure Blenders,290,643,365038.63775634766,190640.19998931885,52.22466343865919,High Revenue / High Profit
+PROD-000135,KitchenAid De-engineered static project Blenders,262,563,232455.79006958008,75374.94995880127,32.4254990319835,High Revenue / High Profit
+PROD-000136,Electrolux Innovative logistical functionalities Blenders,267,600,391941.9600830078,172848.9796295166,44.10065704445362,High Revenue / High Profit
+PROD-000137,Samsung Versatile asynchronous access Blenders,262,546,360064.74938964844,188362.0299525261,52.313377044495915,High Revenue / High Profit
+PROD-000138,KitchenAid Persevering regional open system Blenders,312,642,444155.93981933594,128636.26060581207,28.961958869251177,High Revenue / High Profit
+PROD-000139,Whirlpool Cross-platform asynchronous monitoring Blenders,267,571,282016.4011230469,121242.49024772644,42.991290494068465,High Revenue / High Profit
+PROD-000140,Electrolux Extended motivating firmware Blenders,291,621,185161.99969482422,66272.350066185,35.7915501968072,High Revenue / High Profit
+PROD-000141,Cuisinart De-engineered grid-enabled architecture Blenders,284,642,385533.9603881836,132205.14988303185,34.29144082402445,High Revenue / High Profit
+PROD-000142,Whirlpool Fully-configurable holistic forecast Blenders,274,619,248751.18041992188,131976.52031230927,53.05563579216671,High Revenue / High Profit
+PROD-000143,Bosch Diverse leadingedge moratorium Blenders,260,611,219837.3907470703,62197.239961624146,28.29238454398505,High Revenue / High Profit
+PROD-000144,Samsung Triple-buffered exuding pricing structure Toasters,280,604,100765.72003173828,50658.55003499985,50.273595047049604,High Revenue / High Profit
+PROD-000145,Electrolux Streamlined multi-tasking access Toasters,289,616,297042.3506164551,155020.67992401123,52.18807338492144,High Revenue / High Profit
+PROD-000146,Samsung Synchronized neutral framework Toasters,300,652,349713.2307128906,186152.8099784851,53.23013075570876,High Revenue / High Profit
+PROD-000147,Miele Switchable bi-directional challenge Toasters,290,612,328734.5100097656,173367.05018424988,52.7377092776477,High Revenue / High Profit
+PROD-000148,Dyson Fundamental bifurcated benchmark Toasters,262,551,388125.32971191406,170805.70032259822,44.00787252132673,High Revenue / High Profit
+PROD-000149,LG User-friendly neutral collaboration Toasters,283,632,381893.05993652344,110223.96041870117,28.862519899424754,High Revenue / High Profit
+PROD-000150,Dyson Future-proofed executive portal Toasters,287,625,352429.5005187988,156319.2198486328,44.35474885573452,High Revenue / High Profit
+PROD-000151,Miele Expanded transitional Graphical User Interface Toasters,266,569,332709.91973876953,132478.38977193832,39.81798615320969,High Revenue / High Profit
+PROD-000152,Miele Expanded systemic productivity Toasters,298,629,415554.6909790039,215398.9903832078,51.834089485489876,High Revenue / High Profit
+PROD-000153,Panasonic Fundamental motivating matrix Toasters,311,684,69190.80990600586,28441.02996635437,41.10521325735436,Low Revenue / Low Profit
+PROD-000154,Miele Function-based actuating array Toasters,273,600,99420.96026611328,49910.94016456604,50.201627535051806,High Revenue / High Profit
+PROD-000155,Cuisinart Sharable interactive focus group Toasters,300,652,362485.4094848633,138468.3303155899,38.199697613310995,High Revenue / High Profit
+PROD-000156,Dyson Balanced 24hour groupware Toasters,263,558,181769.5103149414,84142.39015054703,46.2907062932383,High Revenue / High Profit
+PROD-000157,H&M Visionary clear-thinking productivity Men's Clothing,250,517,40644.23999786377,13251.630003243685,32.60395569935661,Low Revenue / Low Profit
+PROD-000158,Puma Fundamental cohesive support Men's Clothing,262,547,145364.30018615723,93261.51013946533,64.15709360553606,High Revenue / High Profit
+PROD-000159,Levi's Organic neutral strategy Men's Clothing,317,676,102562.49012756348,32296.180099368095,31.48927064777706,High Revenue / Low Profit
+PROD-000160,Adidas Optimized next generation access Men's Clothing,284,631,100137.00007629395,32308.73011702299,32.26452768947253,High Revenue / Low Profit
+PROD-000161,Levi's Customizable asynchronous solution Men's Clothing,283,641,114749.97006225586,48223.560052871704,42.02489989906641,High Revenue / High Profit
+PROD-000162,Mango Distributed needs-based alliance Men's Clothing,272,585,103326.19993591309,46482.53989315033,44.98620864986867,High Revenue / High Profit
+PROD-000163,Adidas Multi-layered optimal neural-net Men's Clothing,299,685,22562.6600189209,11395.299983024597,50.50512649425455,Low Revenue / Low Profit
+PROD-000164,Zara Digitized intermediate capacity Men's Clothing,300,614,151782.39012145996,76944.91000795364,50.694227404365186,High Revenue / High Profit
+PROD-000165,Puma Balanced fault-tolerant hierarchy Women's Clothing,286,618,57403.8800201416,33326.20000457764,58.05565754942749,Low Revenue / Low Profit
+PROD-000166,Adidas Balanced heuristic database Women's Clothing,271,587,64142.16019439697,28636.280012369156,44.64501963385796,Low Revenue / Low Profit
+PROD-000167,Gucci Synergized dynamic secured line Women's Clothing,268,590,156076.8698272705,51078.37997627258,32.726425147301306,High Revenue / High Profit
+PROD-000168,Puma Customer-focused heuristic time-frame Women's Clothing,278,594,93095.00999450684,51182.05005645752,54.97829589306406,High Revenue / High Profit
+PROD-000169,Forever 21 Realigned incremental process improvement Women's Clothing,307,684,131802.52014160156,78801.22995758057,59.78734691333728,High Revenue / High Profit
+PROD-000170,Mango User-friendly coherent encoding Women's Clothing,295,639,144837.67993164062,48954.12993812561,33.79930551306166,High Revenue / High Profit
+PROD-000171,Nike Diverse context-sensitive installation Women's Clothing,282,615,105040.5,52101.96000480652,49.60178217431041,High Revenue / High Profit
+PROD-000172,H&M Assimilated context-sensitive support Women's Clothing,280,619,146643.3703765869,93311.65003204346,63.63168671888463,High Revenue / High Profit
+PROD-000173,Puma Managed zero tolerance installation Women's Clothing,273,609,69666.74005889893,25850.100032925606,37.10536765617415,Low Revenue / Low Profit
+PROD-000174,Adidas Synchronized user-facing workforce Kids' Clothing,288,614,35682.830017089844,15193.339961528778,42.578853623022944,Low Revenue / Low Profit
+PROD-000175,Puma Fully-configurable encompassing complexity Kids' Clothing,286,641,170711.10034179688,64947.820117235184,38.045458079291265,High Revenue / High Profit
+PROD-000176,H&M Total bi-directional implementation Kids' Clothing,285,633,88665.1303100586,45673.15010011196,51.511964106289234,Low Revenue / High Profit
+PROD-000177,Zara Automated methodical definition Kids' Clothing,282,612,21843.310041427612,7366.299977302551,33.72336868053314,Low Revenue / Low Profit
+PROD-000178,Zara Exclusive logistical hardware Kids' Clothing,264,633,167029.04035949707,51049.17997992039,30.563056502059222,High Revenue / High Profit
+PROD-000179,Forever 21 Integrated discrete definition Kids' Clothing,303,673,143665.26991271973,48586.180024147034,33.81901558648403,High Revenue / High Profit
+PROD-000180,Nike Assimilated stable core Shoes,294,646,53176.59999084473,25692.939999341965,48.31625189230874,Low Revenue / Low Profit
+PROD-000181,Tommy Hilfiger Open-architected full-range focus group Shoes,243,512,132349.92999267578,59232.869821727276,44.75474208789171,High Revenue / High Profit
+PROD-000182,H&M Cloned zero administration focus group Shoes,270,609,117062.04010009766,53217.62006473541,45.46103930807116,High Revenue / High Profit
+PROD-000183,Nike Monitored secondary migration Shoes,267,539,26862.02996826172,10559.84998512268,39.31143698968192,Low Revenue / Low Profit
+PROD-000184,Puma Open-architected systematic monitoring Shoes,275,612,131400.68998718262,63114.55009555817,48.03212989346907,High Revenue / High Profit
+PROD-000185,Puma Managed 4thgeneration budgetary management Shoes,277,629,97309.65005493164,43625.15999984741,44.83127827016216,High Revenue / High Profit
+PROD-000186,Forever 21 Fundamental context-sensitive paradigm Shoes,267,571,69413.31009674072,41308.599994659424,59.511064862182764,Low Revenue / High Profit
+PROD-000187,Forever 21 Fundamental 5thgeneration benchmark Shoes,282,623,131610.13969421387,58895.329906225204,44.74984225612405,High Revenue / High Profit
+PROD-000188,Adidas Right-sized intermediate hardware Shoes,275,591,43937.12990570068,25650.389976501465,58.37975769367089,Low Revenue / Low Profit
+PROD-000189,Forever 21 Upgradable zero tolerance functionalities Accessories,284,631,69679.70986175537,31852.199981451035,45.71230282767514,Low Revenue / Low Profit
+PROD-000190,Gucci Optional real-time migration Accessories,288,623,81467.30982971191,28072.219954639673,34.45826309143875,Low Revenue / Low Profit
+PROD-000191,Forever 21 Customizable human-resource orchestration Accessories,291,595,91658.0100402832,36969.67993474007,40.33436894221475,High Revenue / Low Profit
+PROD-000192,Louis Vuitton Ergonomic eco-centric analyzer Accessories,254,544,97421.11994934082,36258.06003242731,37.21786410511558,High Revenue / Low Profit
+PROD-000193,Nike Triple-buffered intermediate ability Accessories,264,531,32192.939949035645,11152.26000881195,34.64194331573008,Low Revenue / Low Profit
+PROD-000194,Gucci Programmable national software Accessories,304,668,57987.7200012207,28353.310082912445,48.895369713304085,Low Revenue / Low Profit
+PROD-000195,Gucci Up-sized user-facing support Accessories,255,551,78905.63006591797,42056.799973487854,53.300125654346196,Low Revenue / High Profit
+PROD-000196,Zara Synchronized dedicated hierarchy Bags,265,607,49594.329933166504,30432.759941101074,61.36338565741764,Low Revenue / Low Profit
+PROD-000197,Gucci Optional asymmetric secured line Bags,282,620,33819.250034332275,19535.96995639801,57.76582844553232,Low Revenue / Low Profit
+PROD-000198,Louis Vuitton Managed regional functionalities Bags,281,594,111092.35995483398,66709.41982269287,60.04861166853818,High Revenue / High Profit
+PROD-000199,Calvin Klein Switchable bottom-line success Bags,272,563,138132.01972961426,68257.99985313416,49.415045104491625,High Revenue / High Profit
+PROD-000200,Zara Innovative motivating function Bags,281,660,43020.92010498047,24365.4799823761,56.63635255340655,Low Revenue / Low Profit
+PROD-000201,Puma Synchronized incremental Graphic Interface Bags,285,629,39692.810092926025,21088.349990844727,53.1288914578589,Low Revenue / Low Profit
+PROD-000202,Nike Open-architected tangible frame Bags,282,601,26510.8699760437,15019.629957199097,56.65460986671296,Low Revenue / Low Profit
+PROD-000203,Calvin Klein Reactive clear-thinking core Bags,275,583,42597.019844055176,21743.799993515015,51.04535498754984,Low Revenue / Low Profit
+PROD-000204,Louis Vuitton Operative static implementation Bags,256,551,105617.9499206543,66832.29019165039,63.27739767895352,High Revenue / High Profit
+PROD-000205,H&M Synergistic value-added conglomeration Bags,291,612,110707.0499420166,69250.27001190186,62.552719134122036,High Revenue / High Profit
+PROD-000206,Calvin Klein Seamless non-volatile framework Bags,274,578,147625.60987854004,94111.00003433228,63.74977899279314,High Revenue / High Profit
+PROD-000207,Louis Vuitton Open-architected neutral ability Bags,278,573,132788.32991027832,56552.49002838135,42.58844889953238,High Revenue / High Profit
+PROD-000208,Levi's Innovative executive database Bags,280,585,43566.57997894287,22259.25996184349,51.09251167432033,Low Revenue / Low Profit
+PROD-000209,Zara Optional zero tolerance paradigm Bags,307,680,120602.67008972168,64026.59996032715,53.088874328151206,High Revenue / High Profit
+PROD-000210,Gucci Robust solution-oriented Graphic Interface Bags,312,639,132174.07028198242,84041.28005981445,63.58378756175046,High Revenue / High Profit
+PROD-000211,Zara Persistent leadingedge intranet Watches,284,617,121575.75993347168,41969.12995040417,34.520968631716045,High Revenue / High Profit
+PROD-000212,Tommy Hilfiger Synergistic didactic migration Watches,305,650,100761.08999633789,61845.069984436035,61.37792870907188,High Revenue / High Profit
+PROD-000213,Louis Vuitton Phased user-facing concept Watches,278,591,93513.55010986328,53931.30982398987,57.67218735747848,High Revenue / High Profit
+PROD-000214,H&M Switchable attitude-oriented forecast Watches,236,481,56903.34999847412,36540.74001312256,64.21544603982439,Low Revenue / Low Profit
+PROD-000215,H&M Profound stable productivity Watches,302,649,47869.080017089844,24906.699989318848,52.030872497292314,Low Revenue / Low Profit
+PROD-000216,Tommy Hilfiger Secured full-range array Watches,283,615,148283.50999450684,66657.05988419056,44.952442713731195,High Revenue / High Profit
+PROD-000217,Louis Vuitton Versatile disintermediate service-desk Watches,244,496,108618.07998657227,52939.00992488861,48.73867217265589,High Revenue / High Profit
+PROD-000218,Gucci Integrated directional workforce Watches,278,578,87860.96012878418,38720.33003163338,44.0700055802693,Low Revenue / Low Profit
+PROD-000219,H&M Exclusive client-server algorithm Jewelry,266,612,79333.89003753662,47751.54995346069,60.190606978766795,Low Revenue / High Profit
+PROD-000220,Mango Balanced dynamic leverage Jewelry,250,532,62042.569816589355,28007.609926700592,45.14256906104448,Low Revenue / Low Profit
+PROD-000221,Nike Seamless zero administration archive Jewelry,281,601,67220.05988311768,21941.62999319099,32.64149129194934,Low Revenue / Low Profit
+PROD-000222,Mango Persevering intangible product Jewelry,243,511,40873.329986572266,24209.16997909546,59.22974709192687,Low Revenue / Low Profit
+PROD-000223,Gucci Re-engineered content-based structure Jewelry,284,571,48936.83996582031,28956.470010757446,59.1711071474618,Low Revenue / Low Profit
+PROD-000224,Louis Vuitton Total human-resource methodology Jewelry,283,623,57069.29993438721,32570.620082855225,57.072051208446204,Low Revenue / Low Profit
+PROD-000225,Estée Lauder Open-architected dynamic circuit Skincare,287,651,14955.639989852905,6439.720009326935,43.05880600025243,Low Revenue / Low Profit
+PROD-000226,Benefit Streamlined system-worthy ability Skincare,298,623,84808.70999145508,52260.94002532959,61.622137667929564,Low Revenue / High Profit
+PROD-000227,Clinique Versatile zero administration benchmark Skincare,264,557,74914.3599319458,30749.620074272156,41.046362943240695,Low Revenue / Low Profit
+PROD-000228,Kiehl's Vision-oriented interactive definition Skincare,272,590,26070.920043945312,14226.740005493164,54.569382214024195,Low Revenue / Low Profit
+PROD-000229,MAC Enhanced tangible model Skincare,296,628,80037.42021179199,38936.02000635862,48.64727011856154,Low Revenue / Low Profit
+PROD-000230,Maybelline Persistent actuating open architecture Skincare,277,602,28123.820056915283,11528.470028162003,40.99183540796159,Low Revenue / Low Profit
+PROD-000231,Kiehl's Fully-configurable bottom-line knowledgebase Skincare,263,566,30563.970008850098,15704.579971075058,51.382657313587345,Low Revenue / Low Profit
+PROD-000232,Revlon Devolved maximized secured line Skincare,256,541,23292.59003829956,13426.709957122803,57.64369670803256,Low Revenue / Low Profit
+PROD-000233,Revlon Progressive next generation policy Skincare,291,625,30885.80002593994,14254.649978518486,46.152762649976644,Low Revenue / Low Profit
+PROD-000234,Clinique Intuitive web-enabled intranet Skincare,310,665,48113.74011230469,23210.64998948574,48.24120913341719,Low Revenue / Low Profit
+PROD-000235,Clinique Seamless uniform middleware Skincare,278,616,33449.56000137329,19501.380024909973,58.300856645376896,Low Revenue / Low Profit
+PROD-000236,Revlon Optimized neutral knowledge user Skincare,258,568,78148.26996612549,43754.030044555664,55.988481976020054,Low Revenue / High Profit
+PROD-000237,Clinique Diverse value-added leverage Skincare,281,593,26754.309986114502,11495.010032892227,42.96507754772275,Low Revenue / Low Profit
+PROD-000238,Maybelline Organized empowering system engine Makeup,279,584,50587.4899597168,25484.10000562668,50.37628873446748,Low Revenue / Low Profit
+PROD-000239,Kiehl's Fully-configurable scalable focus group Makeup,261,583,32682.06995010376,12194.049960255623,37.31113108463593,Low Revenue / Low Profit
+PROD-000240,Benefit Visionary zero-defect model Makeup,305,657,86903.80995178223,52709.910053253174,60.65316363287039,Low Revenue / High Profit
+PROD-000241,Clinique Pre-emptive responsive encoding Makeup,308,642,83844.65003967285,49830.340030670166,59.43174669712605,Low Revenue / High Profit
+PROD-000242,MAC Grass-roots leadingedge archive Makeup,284,617,64854.09008026123,31354.369892835617,48.34601773617131,Low Revenue / Low Profit
+PROD-000243,Clinique Universal executive encoding Makeup,286,628,19190.550031661987,7259.479986578226,37.82841020502799,Low Revenue / Low Profit
+PROD-000244,Maybelline Future-proofed full-range functionalities Makeup,258,547,17846.79003715515,9684.340021133423,54.263763965237665,Low Revenue / Low Profit
+PROD-000245,Benefit Quality-focused attitude-oriented challenge Hair Care,258,574,54459.40003967285,26892.189955174923,49.380253795642936,Low Revenue / Low Profit
+PROD-000246,NARS Distributed discrete info-mediaries Hair Care,279,609,75912.81997680664,41489.72996425629,54.65444437044032,Low Revenue / High Profit
+PROD-000247,NARS Team-oriented coherent strategy Hair Care,260,572,38923.13994598389,20664.779992580414,53.091246033229176,Low Revenue / Low Profit
+PROD-000248,MAC Extended asymmetric instruction set Hair Care,286,611,31079.95001602173,13107.760017752647,42.17432785765611,Low Revenue / Low Profit
+PROD-000249,CoverGirl Open-source full-range moratorium Hair Care,286,637,26198.330059051514,9692.989991664886,36.99850322450595,Low Revenue / Low Profit
+PROD-000250,Clinique Persistent intangible approach Hair Care,265,564,45510.73010253906,17711.22006893158,38.91658083495229,Low Revenue / Low Profit
+PROD-000251,Benefit Expanded intangible info-mediaries Hair Care,274,582,15993.429990768433,5693.750012636185,35.60055607785618,Low Revenue / Low Profit
+PROD-000252,Estée Lauder Visionary optimal standardization Hair Care,281,607,33051.45004272461,19078.760034561157,57.72442664360753,Low Revenue / Low Profit
+PROD-000253,Clinique Ameliorated well-modulated orchestration Hair Care,270,616,55210.61999511719,27146.48996448517,49.16896417190388,Low Revenue / Low Profit
+PROD-000254,Maybelline Multi-tiered mission-critical ability Hair Care,275,617,68174.39993286133,41041.93002700806,60.20138067577634,Low Revenue / High Profit
+PROD-000255,L'Oreal Multi-channeled exuding system engine Hair Care,264,583,25118.530002593994,10171.499986603856,40.49400974321922,Low Revenue / Low Profit
+PROD-000256,Maybelline Networked intangible monitoring Hair Care,287,633,52699.4100189209,22506.61993651092,42.70753681764231,Low Revenue / Low Profit
+PROD-000257,Benefit User-friendly user-facing moratorium Hair Care,280,603,33055.899936676025,13221.610013008118,39.99773123205319,Low Revenue / Low Profit
+PROD-000258,NARS Robust directional matrix Hair Care,266,572,66650.90985107422,40135.74005508423,60.21784270426933,Low Revenue / Low Profit
+PROD-000259,Benefit Face-to-face encompassing Internet solution Fragrances,289,657,73660.89992523193,44164.12997817993,59.956001111862435,Low Revenue / High Profit
+PROD-000260,Kiehl's Pre-emptive 4thgeneration info-mediaries Fragrances,303,638,66608.97992706299,30166.769981861115,45.28934389161012,Low Revenue / Low Profit
+PROD-000261,Kiehl's Mandatory static service-desk Fragrances,298,661,66903.14009094238,33463.80007684231,50.01828020531547,Low Revenue / Low Profit
+PROD-000262,CoverGirl Open-architected uniform concept Fragrances,278,621,34521.990016937256,19389.719985961914,56.16628698533569,Low Revenue / Low Profit
+PROD-000263,Estée Lauder Persistent clear-thinking process improvement Fragrances,276,613,52422.649978637695,27527.62008333206,52.510928185716686,Low Revenue / Low Profit
+PROD-000264,Maybelline Public-key 4thgeneration infrastructure Fragrances,294,627,83819.23992919922,51028.95014953613,60.87975766976589,Low Revenue / High Profit
+PROD-000265,MAC Reverse-engineered non-volatile protocol Fragrances,259,555,41994.20989227295,19391.220019876957,46.17593727711733,Low Revenue / Low Profit
+PROD-000266,L'Oreal Assimilated attitude-oriented project Fragrances,277,583,72499.34005737305,29286.1199811697,40.39501595186087,Low Revenue / Low Profit
+PROD-000267,Maybelline Optimized client-driven Local Area Network Fragrances,245,497,49710.65003204346,19312.40998530388,38.84964282876025,Low Revenue / Low Profit
+PROD-000268,NARS Enterprise-wide actuating firmware Fragrances,260,568,18018.14999961853,8065.880015015602,44.76530617841659,Low Revenue / Low Profit
+PROD-000269,NARS Multi-tiered fresh-thinking data-warehouse Fragrances,288,621,40790.59997177124,17584.340025365353,43.10880457148077,Low Revenue / Low Profit
+PROD-000270,MAC Persevering fresh-thinking Graphical User Interface Fragrances,287,610,78085.57009887695,40575.86004304886,51.96332688827027,Low Revenue / Low Profit
+PROD-000271,Revlon Virtual homogeneous focus group Fragrances,252,484,65866.06986999512,27359.529905319214,41.538124195539226,Low Revenue / Low Profit
+PROD-000272,Benefit Versatile intangible extranet Fragrances,259,584,74004.36014556885,29783.17001056671,40.24515576106908,Low Revenue / Low Profit
+PROD-000273,Kiehl's Configurable methodical adapter Fragrances,294,643,55845.370025634766,29571.690003871918,52.95280520175189,Low Revenue / Low Profit
+PROD-000274,CoverGirl User-friendly needs-based application Bath & Body,284,616,34064.10000228882,14092.67994594574,41.37106204185295,Low Revenue / Low Profit
+PROD-000275,NARS Monitored directional projection Bath & Body,279,583,31843.810054779053,16313.55999469757,51.22992495757983,Low Revenue / Low Profit
+PROD-000276,Maybelline Cloned zero-defect projection Bath & Body,292,630,80436.97999572754,44267.16996192932,55.033356503787935,Low Revenue / High Profit
+PROD-000277,MAC Balanced web-enabled algorithm Bath & Body,282,607,64493.720039367676,33557.09012413025,52.031562303502774,Low Revenue / Low Profit
+PROD-000278,Maybelline Fully-configurable dedicated adapter Bath & Body,314,700,49744.549949645996,29862.000007629395,60.03069690620833,Low Revenue / Low Profit
+PROD-000279,NARS Secured coherent encoding Bath & Body,285,627,46186.89987182617,23509.68003177643,50.901186477157864,Low Revenue / Low Profit
+PROD-000280,Clinique De-engineered methodical secured line Bath & Body,253,569,32365.93992996216,14981.230019807816,46.28702287721675,Low Revenue / Low Profit
+PROD-000281,Clinique Customizable non-volatile data-warehouse Bath & Body,265,587,8656.760025024414,2947.920005261898,34.05338714184334,Low Revenue / Low Profit
+PROD-000282,Revlon Persistent tangible extranet Bath & Body,266,569,75743.0299911499,45817.32011795044,60.49047697630251,Low Revenue / High Profit
+PROD-000283,Estée Lauder Visionary holistic concept Bath & Body,291,619,14761.77996635437,4801.610008329153,32.527310522668486,Low Revenue / Low Profit
+PROD-000284,CoverGirl Robust real-time synergy Bath & Body,277,593,51188.08991241455,31171.79997062683,60.8965875147195,Low Revenue / Low Profit
+PROD-000285,Kiehl's Universal bifurcated time-frame Bath & Body,293,647,25147.029998779297,9351.100004371256,37.18570346011113,Low Revenue / Low Profit
+PROD-000286,Estée Lauder Diverse fault-tolerant benchmark Men's Grooming,309,646,23811.050050735474,13967.919988632202,58.66150362487169,Low Revenue / Low Profit
+PROD-000287,Kiehl's Reduced 4thgeneration function Men's Grooming,269,562,45601.71989440918,27664.64002609253,60.6657821024076,Low Revenue / Low Profit
+PROD-000288,MAC Re-engineered systematic implementation Men's Grooming,278,591,40754.13014602661,19832.830013126135,48.664589189029144,Low Revenue / Low Profit
+PROD-000289,Kiehl's Object-based transitional customer loyalty Men's Grooming,293,609,38982.3099861145,18890.4899944067,48.459134415419435,Low Revenue / Low Profit
+PROD-000290,Maybelline Compatible optimizing solution Men's Grooming,256,559,19760.54995918274,7379.6100071668625,37.3451651012251,Low Revenue / Low Profit
+PROD-000291,Kiehl's Self-enabling dynamic benchmark Men's Grooming,298,631,37605.480041503906,20719.580078125,55.09723597533524,Low Revenue / Low Profit
+PROD-000292,L'Oreal Total zero administration framework Men's Grooming,283,610,39269.17999649048,24379.62992477417,62.08336901089607,Low Revenue / Low Profit
+PROD-000293,Kiehl's Synergized radical workforce Men's Grooming,282,613,63605.97006225586,29885.340036392212,46.985117917612484,Low Revenue / Low Profit
+PROD-000294,Revlon Decentralized non-volatile toolset Oral Care,267,617,24567.039947509766,13508.120008468628,54.984727656772,Low Revenue / Low Profit
+PROD-000295,Kiehl's Balanced grid-enabled monitoring Oral Care,286,622,9253.509972572327,4470.10999417305,48.30718297621752,Low Revenue / Low Profit
+PROD-000296,MAC Optimized stable hub Oral Care,296,625,22048.859912872314,9476.879988729954,42.981269898663875,Low Revenue / Low Profit
+PROD-000297,Benefit Cloned motivating project Oral Care,277,593,14651.339977264404,7392.050000905991,50.45306444582403,Low Revenue / Low Profit
+PROD-000298,NARS Mandatory 24/7 instruction set Oral Care,285,624,75765.77010345459,32171.649970293045,42.46198504465033,Low Revenue / Low Profit
+PROD-000299,Kiehl's Pre-emptive bi-directional Internet solution Deodorants,287,622,58226.62996673584,33129.20998382568,56.8970074392971,Low Revenue / Low Profit
+PROD-000300,L'Oreal Multi-lateral scalable knowledgebase Deodorants,245,545,69868.82987976074,45301.93008041382,64.83854124704135,Low Revenue / High Profit
+PROD-000301,Revlon Triple-buffered coherent Internet solution Deodorants,275,543,21530.24002456665,12719.070039749146,59.07537503175211,Low Revenue / Low Profit
+PROD-000302,CoverGirl Enhanced upward-trending model Deodorants,276,629,53889.83003997803,28323.029923439026,52.55728196290035,Low Revenue / Low Profit
+PROD-000303,CoverGirl Streamlined encompassing pricing structure Deodorants,291,610,70716.40998077393,39082.260009765625,55.266182234634286,Low Revenue / Low Profit
+PROD-000304,MAC Public-key zero-defect matrices Deodorants,285,597,35925.12007141113,16875.289967536926,46.973510273570724,Low Revenue / Low Profit
+PROD-000305,Kiehl's Persistent intermediate superstructure Deodorants,272,581,53083.29997253418,27949.909954071045,52.652924683530614,Low Revenue / Low Profit
+PROD-000306,Benefit Reverse-engineered encompassing Graphic Interface Deodorants,293,648,42828.93006134033,23153.579978466034,54.06060797060557,Low Revenue / Low Profit
+PROD-000307,Estée Lauder Fully-configurable background focus group Deodorants,248,525,55582.129875183105,32998.509941101074,59.368919498413455,Low Revenue / Low Profit
+PROD-000308,Wayfair Organized dynamic system engine Cookware,262,555,103024.8199005127,36422.000069856644,35.352646192469,High Revenue / Low Profit
+PROD-000309,IKEA Persistent non-volatile pricing structure Cookware,304,646,103988.65986633301,60398.54973220825,58.081861820168214,High Revenue / High Profit
+PROD-000310,Home Depot Synchronized homogeneous Graphical User Interface Cookware,250,541,106675.1696472168,43009.54995918274,40.31823910045675,High Revenue / High Profit
+PROD-000311,Williams-Sonoma Assimilated modular Graphic Interface Cookware,294,650,42458.19013977051,15052.660027980804,35.45290079117387,Low Revenue / Low Profit
+PROD-000312,Walmart Enterprise-wide mobile data-warehouse Cookware,236,521,103552.71015930176,56940.92002105713,54.9873778614401,High Revenue / High Profit
+PROD-000313,Home Depot Multi-channeled empowering Graphical User Interface Cookware,279,600,14105.10997390747,4108.030011001974,29.12440965438249,Low Revenue / Low Profit
+PROD-000314,Home Depot Grass-roots radical standardization Cookware,252,536,115894.30987548828,60768.5500626564,52.43445526181867,High Revenue / High Profit
+PROD-000315,Wayfair Grass-roots next generation access Kitchen Utensils,288,614,148879.06996154785,55607.8399438858,37.351012441337836,High Revenue / High Profit
+PROD-000316,IKEA Programmable content-based artificial intelligence Kitchen Utensils,283,611,13188.260005950928,6104.960009098053,46.290867835054186,Low Revenue / Low Profit
+PROD-000317,Williams-Sonoma Front-line uniform installation Kitchen Utensils,304,679,213227.89962768555,91516.22000551224,42.91943979437377,High Revenue / High Profit
+PROD-000318,IKEA Pre-emptive next generation task-force Kitchen Utensils,259,588,143456.4797668457,78542.21979904175,54.74985858198485,High Revenue / High Profit
+PROD-000319,Williams-Sonoma Front-line system-worthy leverage Kitchen Utensils,288,677,107842.86006164551,52125.23002195358,48.33442843796759,High Revenue / High Profit
+PROD-000320,IKEA Stand-alone transitional matrix Kitchen Utensils,296,603,20705.380018234253,10207.520024776459,49.298877952431575,Low Revenue / Low Profit
+PROD-000321,Williams-Sonoma Organized 3rdgeneration array Bedding,267,572,26314.03995513916,10733.20000052452,40.788871715718116,Low Revenue / Low Profit
+PROD-000322,Wayfair Implemented directional initiative Bedding,278,643,96300.29020690918,49093.880027770996,50.9799917760255,High Revenue / High Profit
+PROD-000323,Williams-Sonoma Team-oriented dynamic function Bedding,274,563,148968.19958496094,77154.12979722023,51.792348979298076,High Revenue / High Profit
+PROD-000324,Target Switchable optimal hub Bedding,282,590,106370.8399810791,43731.36997538805,41.11217884823213,High Revenue / High Profit
+PROD-000325,Pottery Barn Phased neutral moderator Bedding,270,581,158937.43981933594,86917.67000579834,54.68671831168137,High Revenue / High Profit
+PROD-000326,Crate & Barrel Monitored interactive synergy Bedding,247,503,54829.08994293213,23874.04004764557,43.54265239947341,Low Revenue / Low Profit
+PROD-000327,Target Reactive full-range help-desk Bedding,282,657,123014.30003356934,53037.43994283676,43.11485732013546,High Revenue / High Profit
+PROD-000328,IKEA Total logistical flexibility Bathroom Accessories,283,624,177605.29971313477,102033.05007171631,57.449327377346535,High Revenue / High Profit
+PROD-000329,Home Depot Integrated eco-centric emulation Bathroom Accessories,260,562,151360.07025146484,70508.08000254631,46.583012207517086,High Revenue / High Profit
+PROD-000330,Williams-Sonoma Decentralized uniform core Bathroom Accessories,299,656,107818.07992553711,56113.3198928833,52.04444368851412,High Revenue / High Profit
+PROD-000331,Williams-Sonoma Intuitive bottom-line synergy Bathroom Accessories,282,621,182013.66015625,74721.2299156189,41.05253960140921,High Revenue / High Profit
+PROD-000332,Target Public-key well-modulated solution Bathroom Accessories,307,619,136557.00996398926,67892.25980743766,49.71715463405443,High Revenue / High Profit
+PROD-000333,Crate & Barrel Enterprise-wide content-based data-warehouse Bathroom Accessories,268,576,187356.14010620117,103621.72966003418,55.30735720820098,High Revenue / High Profit
+PROD-000334,IKEA User-centric mission-critical focus group Bathroom Accessories,281,551,95914.75999450684,52742.13008308411,54.98854408446074,High Revenue / High Profit
+PROD-000335,Home Depot Up-sized optimizing task-force Bathroom Accessories,241,501,157134.9401550293,61522.24022912979,39.152489044404746,High Revenue / High Profit
+PROD-000336,Crate & Barrel Progressive radical forecast Bathroom Accessories,294,652,157952.9295501709,63772.73979663849,40.3745216870968,High Revenue / High Profit
+PROD-000337,Walmart Cross-platform content-based frame Bathroom Accessories,284,629,63241.14002227783,27912.169944286346,44.13609548223479,Low Revenue / Low Profit
+PROD-000338,Home Depot Focused high-level conglomeration Bathroom Accessories,265,598,216490.7599182129,75699.58984780312,34.966660875688795,High Revenue / High Profit
+PROD-000339,Crate & Barrel Innovative 24/7 strategy Bathroom Accessories,285,609,157932.00982666016,54081.659974098206,34.24363435471762,High Revenue / High Profit
+PROD-000340,Walmart Public-key clear-thinking focus group Bathroom Accessories,291,619,131277.89994812012,45005.39991092682,34.28254102839286,High Revenue / High Profit
+PROD-000341,Pottery Barn Balanced actuating neural-net Bathroom Accessories,251,556,141188.68978881836,72178.04019331932,51.121687085048336,High Revenue / High Profit
+PROD-000342,Target Implemented tangible capacity Furniture,271,546,188741.21939086914,62012.6499414444,32.85591252487395,High Revenue / High Profit
+PROD-000343,Wayfair Sharable web-enabled matrix Furniture,285,599,190430.89022827148,71433.87011018209,37.51170307745428,High Revenue / High Profit
+PROD-000344,Home Depot Customer-focused 24/7 orchestration Furniture,263,584,174439.05026245117,102082.63973236084,58.52052024977954,High Revenue / High Profit
+PROD-000345,Target Horizontal methodical matrices Furniture,263,577,56822.15997314453,31644.56000137329,55.69052640084299,Low Revenue / Low Profit
+PROD-000346,Williams-Sonoma Organic global contingency Furniture,251,532,136835.5898590088,69116.04009246826,50.51028037638696,High Revenue / High Profit
+PROD-000347,Target Business-focused eco-centric matrices Furniture,292,637,24612.859951019287,11138.630022764206,45.255326056909226,Low Revenue / Low Profit
+PROD-000348,Williams-Sonoma Customizable asymmetric initiative Furniture,253,542,158115.04006958008,81461.79006958008,51.52058275653728,High Revenue / High Profit
+PROD-000349,Home Depot Pre-emptive asynchronous orchestration Decor,284,633,204397.87966918945,88582.63022994995,43.338331284706925,High Revenue / High Profit
+PROD-000350,IKEA Self-enabling systemic application Decor,249,491,12990.689981460571,3907.310000807047,30.07777112981138,Low Revenue / Low Profit
+PROD-000351,Walmart Distributed coherent workforce Decor,251,528,168034.9397277832,76365.83017349243,45.44639959832471,High Revenue / High Profit
+PROD-000352,Wayfair Re-contextualized exuding artificial intelligence Decor,268,559,166939.56015014648,56481.48006045818,33.83349040195049,High Revenue / High Profit
+PROD-000353,Walmart Fully-configurable bottom-line open architecture Decor,272,563,159336.16967773438,78108.31975537539,49.02108536520834,High Revenue / High Profit
+PROD-000354,Walmart Virtual intangible portal Decor,263,579,133689.6198425293,47019.62993583083,35.170740997853414,High Revenue / High Profit
+PROD-000355,Target Right-sized regional definition Decor,308,672,191232.41046142578,93930.05953598022,49.11827409869271,High Revenue / High Profit
+PROD-000356,IKEA Vision-oriented multi-state implementation Decor,275,635,167534.92990112305,87504.56003379822,52.23063637263123,High Revenue / High Profit
+PROD-000357,Williams-Sonoma Organized leadingedge framework Decor,250,521,72650.7099685669,37231.230095386505,51.24689092714303,Low Revenue / Low Profit
+PROD-000358,Williams-Sonoma Reverse-engineered interactive function Decor,270,585,57687.02995300293,33215.059982299805,57.5780379217994,Low Revenue / Low Profit
+PROD-000359,Wayfair Re-contextualized regional approach Decor,268,566,203410.7303466797,98676.1001033783,48.51076437078876,High Revenue / High Profit
+PROD-000360,Williams-Sonoma Seamless user-facing attitude Decor,294,637,159850.4995880127,86190.49012756348,53.919437442926174,High Revenue / High Profit
+PROD-000361,Wayfair Virtual demand-driven product Decor,281,599,171634.3898010254,98369.28007507324,57.31326932155735,High Revenue / High Profit
+PROD-000362,IKEA Extended empowering protocol Decor,292,634,204292.83963012695,70252.88997626305,34.38832712074304,High Revenue / High Profit
+PROD-000363,Williams-Sonoma Configurable cohesive encoding Storage,283,610,139373.17979431152,76967.80012130737,55.224254935488524,High Revenue / High Profit
+PROD-000364,Williams-Sonoma Enhanced neutral archive Storage,271,613,58704.38003540039,19071.230021476746,32.48689452128829,Low Revenue / Low Profit
+PROD-000365,Walmart Diverse 24hour installation Storage,260,564,130000.15995788574,60760.600025177,46.73886558667368,High Revenue / High Profit
+PROD-000366,Walmart Organized system-worthy policy Storage,247,523,40877.12001037598,21151.929997444153,51.7451571736832,Low Revenue / Low Profit
+PROD-000367,Walmart Phased explicit alliance Storage,275,556,159661.20022583008,80773.10991096497,50.59031862263142,High Revenue / High Profit
+PROD-000368,Wayfair Focused executive strategy Storage,290,629,221670.74032592773,79757.42012262344,35.98012981115786,High Revenue / High Profit
+PROD-000369,Target Horizontal tangible knowledgebase Storage,282,613,223003.5295715332,124679.71994781494,55.909303403120006,High Revenue / High Profit
+PROD-000370,Williams-Sonoma Compatible systemic emulation Storage,296,626,174486.09979248047,71382.4799747467,40.91012410710263,High Revenue / High Profit
+PROD-000371,Williams-Sonoma Fundamental zero tolerance utilization Storage,293,605,180791.26043701172,97562.60998916626,53.96422910783202,High Revenue / High Profit
+PROD-000372,Pottery Barn Self-enabling optimizing protocol Lighting,264,596,120712.39976501465,52616.06988978386,43.58795781726581,High Revenue / High Profit
+PROD-000373,Williams-Sonoma Exclusive interactive budgetary management Lighting,265,546,26689.050010681152,8612.20999443531,32.2687019245295,Low Revenue / Low Profit
+PROD-000374,Target Quality-focused directional project Lighting,292,621,37995.82987976074,12467.320014983416,32.81233770768194,Low Revenue / Low Profit
+PROD-000375,Target Distributed encompassing circuit Lighting,304,683,211562.74026489258,78088.81016731262,36.91047396603935,High Revenue / High Profit
+PROD-000376,Williams-Sonoma Compatible analyzing concept Lighting,263,576,119815.97993469238,68857.25015258789,57.46917079851923,High Revenue / High Profit
+PROD-000377,Williams-Sonoma Integrated radical synergy Lighting,285,639,90336.80015563965,45755.44992828369,50.64984574332105,Low Revenue / High Profit
+PROD-000378,The North Face Re-contextualized executive intranet Fitness Equipment,297,632,150530.45016479492,86380.08000564575,57.38379172524907,High Revenue / High Profit
+PROD-000379,Wilson Decentralized maximized solution Fitness Equipment,248,535,171761.43017578125,100002.51000213623,58.221749725647555,High Revenue / High Profit
+PROD-000380,The North Face Innovative tangible initiative Fitness Equipment,289,647,151602.7395477295,66017.02993535995,43.54606660295584,High Revenue / High Profit
+PROD-000381,Nike Future-proofed motivating moratorium Fitness Equipment,276,601,223452.9800415039,107533.94010066986,48.12374401124417,High Revenue / High Profit
+PROD-000382,The North Face Proactive leadingedge artificial intelligence Fitness Equipment,269,601,160039.00968933105,81973.88969612122,51.221192792463256,High Revenue / High Profit
+PROD-000383,Puma Right-sized 6thgeneration Internet solution Fitness Equipment,299,636,232205.9292602539,89208.45987892151,38.41782169952156,High Revenue / High Profit
+PROD-000384,Nike User-centric fresh-thinking portal Fitness Equipment,259,536,214315.3898010254,80523.98014330864,37.57265412347134,High Revenue / High Profit
+PROD-000385,Puma Function-based 4thgeneration array Outdoor Gear,265,566,181733.68981933594,67856.83983421326,37.33861338625255,High Revenue / High Profit
+PROD-000386,Puma Focused systematic orchestration Outdoor Gear,289,600,211982.30990600586,118126.82023620605,55.724848119913474,High Revenue / High Profit
+PROD-000387,Under Armour Reverse-engineered 3rdgeneration task-force Outdoor Gear,221,525,205240.38989257812,120781.53970336914,58.848816145099725,High Revenue / High Profit
+PROD-000388,The North Face Synergistic encompassing orchestration Outdoor Gear,269,554,45358.419914245605,21544.919997692108,47.49927364847546,Low Revenue / Low Profit
+PROD-000389,Adidas Balanced well-modulated system engine Outdoor Gear,292,630,58897.169929504395,18382.240004479885,31.210735637182708,Low Revenue / Low Profit
+PROD-000390,Reebok Enhanced methodical model Outdoor Gear,304,663,159638.9993133545,94874.93998336792,59.43092877770953,High Revenue / High Profit
+PROD-000391,Adidas Streamlined leadingedge focus group Outdoor Gear,275,569,164281.3995361328,45411.15008677542,27.64229560680574,High Revenue / High Profit
+PROD-000392,Nike Enterprise-wide optimal Internet solution Outdoor Gear,266,586,78331.02011871338,29190.02995634079,37.264968478774165,Low Revenue / Low Profit
+PROD-000393,Under Armour Sharable mobile array Outdoor Gear,280,576,205385.3804321289,115877.37022399902,56.41948320771134,High Revenue / High Profit
+PROD-000394,Adidas Phased grid-enabled installation Camping,307,640,166965.70991516113,49037.83991649747,29.370006536919856,High Revenue / High Profit
+PROD-000395,Adidas Managed fresh-thinking secured line Camping,254,558,163017.72024536133,46584.15001249313,28.576126535433303,High Revenue / High Profit
+PROD-000396,Reebok Customer-focused cohesive groupware Camping,287,627,266521.57989501953,100045.18981313705,37.537369338927064,High Revenue / High Profit
+PROD-000397,Spalding Open-source system-worthy methodology Camping,282,583,90828.4500579834,33320.86003553867,36.68548787771583,Low Revenue / Low Profit
+PROD-000398,Columbia Horizontal stable initiative Camping,293,658,179466.7501220703,86992.56012535095,48.472800708866714,High Revenue / High Profit
+PROD-000399,Reebok Virtual neutral alliance Camping,266,551,24841.27003097534,7101.710008084774,28.588353168857445,Low Revenue / Low Profit
+PROD-000400,Puma Persevering background functionalities Camping,291,601,266784.1208496094,96596.50030755997,36.20773980098051,High Revenue / High Profit
+PROD-000401,Spalding Function-based fresh-thinking budgetary management Camping,266,576,202212.24966430664,120651.21989440918,59.665633558156216,High Revenue / High Profit
+PROD-000402,The North Face Visionary impactful migration Camping,267,576,94346.47998046875,41092.61986017227,43.55501113415054,High Revenue / High Profit
+PROD-000403,Nike Adaptive stable moratorium Cycling,274,544,175165.51974487305,80878.8899936676,46.17283704662136,High Revenue / High Profit
+PROD-000404,Adidas Persistent incremental application Cycling,280,617,275243.28982543945,125726.45004081726,45.67829795979896,High Revenue / High Profit
+PROD-000405,Columbia Ergonomic multi-state hierarchy Cycling,266,600,56485.849952697754,17989.599977254868,31.84797607244943,Low Revenue / Low Profit
+PROD-000406,Adidas Secured web-enabled methodology Cycling,288,637,74421.63004302979,40982.84992599487,55.068465850988524,Low Revenue / Low Profit
+PROD-000407,Columbia Self-enabling leadingedge task-force Cycling,285,561,171033.6403503418,87226.03004837036,50.99934133992491,High Revenue / High Profit
+PROD-000408,Wilson Business-focused demand-driven flexibility Cycling,247,584,51584.66000366211,22456.96996307373,43.53420175974691,Low Revenue / Low Profit
+PROD-000409,Under Armour Reactive clear-thinking forecast Cycling,284,614,124057.83995056152,47120.50000810623,37.98268616226454,High Revenue / High Profit
+PROD-000410,Reebok Organic tangible matrix Cycling,236,509,73022.85981750488,20024.819976329803,27.422672881307093,Low Revenue / Low Profit
+PROD-000411,Spalding Decentralized 4thgeneration product Cycling,277,597,241945.46060180664,127169.74038505554,52.561325213020325,High Revenue / High Profit
+PROD-000412,The North Face Robust disintermediate strategy Cycling,284,629,24471.000045776367,8392.409977272153,34.29532900810346,Low Revenue / Low Profit
+PROD-000413,Columbia Diverse fault-tolerant neural-net Cycling,274,565,223799.58016967773,100513.84051895142,44.912434796680586,High Revenue / High Profit
+PROD-000414,The North Face Advanced neutral installation Cycling,288,607,63814.20011138916,19462.820014357567,30.49919920704916,Low Revenue / Low Profit
+PROD-000415,Adidas Cross-group directional budgetary management Cycling,263,601,209293.4100341797,65268.75997817516,31.18529148505733,High Revenue / High Profit
+PROD-000416,The North Face Persistent bottom-line project Cycling,287,628,180864.49981689453,99606.15988922119,55.07225574397491,High Revenue / High Profit
+PROD-000417,Columbia Distributed modular structure Yoga,259,532,227168.56954956055,93368.33974599838,41.10090578601304,High Revenue / High Profit
+PROD-000418,Adidas Implemented multimedia strategy Yoga,284,607,140288.15003967285,78620.96015167236,56.0424812284136,High Revenue / High Profit
+PROD-000419,Columbia Future-proofed intangible matrices Yoga,290,626,195429.57049560547,87846.44004440308,44.950433970471444,High Revenue / High Profit
+PROD-000420,The North Face Phased dynamic knowledgebase Yoga,293,598,141894.40020751953,82318.23989105225,58.013733995606884,High Revenue / High Profit
+PROD-000421,Adidas Reactive client-server info-mediaries Yoga,261,541,75634.05995941162,24731.56995201111,32.698985040976375,Low Revenue / Low Profit
+PROD-000422,Under Armour Ergonomic radical migration Yoga,285,635,142160.68058776855,85598.35006713867,60.212394674272204,High Revenue / High Profit
+PROD-000423,Spalding User-friendly client-driven architecture Yoga,299,632,121615.58985900879,53088.92006134987,43.65305477932298,High Revenue / High Profit
+PROD-000424,The North Face Grass-roots zero administration utilization Yoga,242,498,73054.2400970459,25490.890025138855,34.893101333032185,Low Revenue / Low Profit
+PROD-000425,Adidas Operative global toolset Yoga,262,552,198691.25045776367,117223.61025238037,58.99787231813658,High Revenue / High Profit
+PROD-000426,The North Face Profit-focused encompassing ability Yoga,291,662,45679.90002822876,22237.879952073097,48.68198034218722,Low Revenue / Low Profit
+PROD-000427,The North Face Horizontal uniform framework Yoga,268,594,50927.73010253906,21171.149937152863,41.57096712248196,Low Revenue / Low Profit
+PROD-000428,Wilson Reverse-engineered optimal protocol Yoga,258,575,184161.11993408203,75061.70002007484,40.75871174487979,High Revenue / High Profit
+PROD-000429,Puma Pre-emptive coherent knowledge user Yoga,287,653,107860.89994812012,46114.5099196434,42.75368547993199,High Revenue / High Profit
+PROD-000430,Spalding Public-key mission-critical hardware Yoga,268,574,98912.40019226074,57085.35008621216,57.71303696528711,High Revenue / High Profit
+PROD-000431,Reebok Managed neutral task-force Yoga,239,531,103115.06005859375,56878.02990722656,55.159769945249884,High Revenue / High Profit
+PROD-000432,The North Face Quality-focused homogeneous knowledgebase Running,273,608,192027.64999389648,63167.140169620514,32.89481497671208,High Revenue / High Profit
+PROD-000433,Adidas Inverse content-based standardization Running,264,572,56042.80010223389,31031.549947738647,55.37116255991948,Low Revenue / Low Profit
+PROD-000434,Spalding Front-line object-oriented info-mediaries Running,291,628,205102.35998535156,121269.80996704102,59.12648200425491,High Revenue / High Profit
+PROD-000435,Nike Focused zero-defect installation Running,261,522,25990.290035247803,10407.57004070282,40.044070407018026,Low Revenue / Low Profit
+PROD-000436,Spalding Balanced foreground synergy Running,283,636,245621.5901184082,85815.95992860198,34.93828042039472,High Revenue / High Profit
+PROD-000437,Under Armour Phased tertiary workforce Running,280,580,96959.77005004883,30392.589984357357,31.345567309688615,High Revenue / Low Profit
+PROD-000438,Wilson Multi-tiered human-resource protocol Running,266,565,231744.8995361328,98781.97985458374,42.62530914480041,High Revenue / High Profit
+PROD-000439,The North Face Streamlined coherent methodology Running,269,615,128583.80004882812,46269.76002573967,35.98412864464209,High Revenue / High Profit
+PROD-000440,Spalding Automated clear-thinking middleware Running,292,630,210559.47006225586,120097.39992904663,57.037282575577144,High Revenue / High Profit
+PROD-000441,Puma Reverse-engineered full-range attitude Running,285,597,78484.86988830566,42360.51989078522,53.97284846247415,Low Revenue / High Profit
+PROD-000442,Puma Organic bandwidth-monitored moderator Running,284,605,72630.7399597168,20006.010026544333,27.54482473624841,Low Revenue / Low Profit
+PROD-000443,Reebok Persevering 24/7 success Running,255,532,55999.26991271973,19013.590044409037,33.953282023218435,Low Revenue / Low Profit
+PROD-000444,Patagonia Digitized incremental projection Running,275,624,147424.5803375244,60836.500083982944,41.26618501792543,High Revenue / High Profit
+PROD-000445,Under Armour Distributed asynchronous leverage Running,290,627,75762.7799911499,18927.529968738556,24.982623355359376,Low Revenue / Low Profit
+PROD-000446,Puma Fundamental global process improvement Team Sports,248,522,157465.66989135742,83822.60988616943,53.23230767951033,High Revenue / High Profit
+PROD-000447,Reebok Team-oriented hybrid projection Team Sports,301,644,37139.33004760742,20870.110117912292,56.194094215376886,Low Revenue / Low Profit
+PROD-000448,Nike Configurable full-range service-desk Team Sports,266,535,121280.94018554688,38842.570004820824,32.026936751476235,High Revenue / Low Profit
+PROD-000449,Adidas Public-key homogeneous functionalities Team Sports,329,719,244873.41015625,112193.55018877983,45.81695910437594,High Revenue / High Profit
+PROD-000450,The North Face Self-enabling transitional task-force Team Sports,289,636,116680.76022338867,31589.1600779891,27.073152435337878,High Revenue / Low Profit
+PROD-000451,Adidas Pre-emptive needs-based alliance Team Sports,268,544,219111.2703857422,92296.29971981049,42.123027061695275,High Revenue / High Profit
+PROD-000452,Wilson Secured asymmetric encoding Team Sports,285,625,208753.16983032227,91830.24007034302,43.9898661874136,High Revenue / High Profit
+PROD-000453,Wilson Self-enabling systemic forecast Team Sports,264,564,234817.27047729492,110787.35983490944,47.18024343342401,High Revenue / High Profit
+PROD-000454,Reebok Focused value-added array Team Sports,281,590,162318.06913757324,47133.140058636665,29.037518933698507,High Revenue / High Profit
+PROD-000455,Columbia Optional bandwidth-monitored task-force Team Sports,285,579,171122.29959106445,68451.34991669655,40.00142008392628,High Revenue / High Profit
+PROD-000456,Patagonia Sharable tertiary attitude Team Sports,285,629,51438.61991119385,17928.090017318726,34.853365133572126,Low Revenue / Low Profit
+PROD-000457,Puma Organic composite solution Swimming,274,572,57752.17998504639,28794.15992116928,49.85813510178295,Low Revenue / Low Profit
+PROD-000458,Columbia Innovative 4thgeneration analyzer Swimming,294,611,65784.20015716553,22069.200001716614,33.5478731199755,Low Revenue / Low Profit
+PROD-000459,Wilson Inverse analyzing frame Swimming,265,558,73961.34006500244,23061.219977378845,31.180100248469024,Low Revenue / Low Profit
+PROD-000460,The North Face Multi-channeled holistic Internet solution Swimming,298,633,152629.87991333008,72147.77987718582,47.26976128013367,High Revenue / High Profit
+PROD-000461,Puma Digitized dynamic moderator Swimming,316,681,62929.05992126465,27597.619975358248,43.85512831414888,Low Revenue / Low Profit
+PROD-000462,Nike Open-source non-volatile software Swimming,272,579,78179.45009613037,29132.77009677887,37.26397417858129,Low Revenue / Low Profit
+PROD-000463,Columbia Enterprise-wide composite conglomeration Swimming,283,610,221671.5202331543,126157.55019378662,56.91193440686201,High Revenue / High Profit
+PROD-000464,The North Face Configurable reciprocal implementation Swimming,278,586,128012.78993225098,66299.25010681152,51.79111410812895,High Revenue / High Profit
+PROD-000465,Nike Secured systemic encoding Swimming,306,646,63600.64009857178,26410.050033807755,41.5248179780518,Low Revenue / Low Profit
+PROD-000466,Reebok Proactive optimal circuit Swimming,261,547,203879.8501586914,91837.70017242432,45.04501062804478,High Revenue / High Profit
+PROD-000467,Columbia Focused maximized productivity Swimming,264,584,168666.2599029541,61959.20996963978,36.73479805936848,High Revenue / High Profit
+PROD-000468,Puma Function-based logistical extranet Swimming,263,540,52666.16997528076,29910.360107421875,56.792358588939564,Low Revenue / Low Profit
+PROD-000469,Simon & Schuster Synchronized 24/7 website Fiction,292,614,33950.85997772217,17597.729992866516,51.83294327275883,Low Revenue / Low Profit
+PROD-000470,Hachette Persistent executive service-desk Fiction,286,585,36618.03000640869,18027.499969005585,49.23121196266022,Low Revenue / Low Profit
+PROD-000471,Hachette Quality-focused cohesive archive Fiction,278,605,15610.280002593994,8478.170007705688,54.311453774671904,Low Revenue / Low Profit
+PROD-000472,Pearson Organic grid-enabled parallelism Fiction,248,529,8643.85001373291,3537.050001144409,40.919844693335996,Low Revenue / Low Profit
+PROD-000473,Random House Innovative scalable interface Fiction,241,501,7842.660001754761,3671.3800003528595,46.81294356164113,Low Revenue / Low Profit
+PROD-000474,Audible Team-oriented eco-centric knowledgebase Fiction,275,574,41839.59007644653,23827.540019989014,56.949745388166825,Low Revenue / Low Profit
+PROD-000475,McGraw-Hill Innovative dedicated info-mediaries Fiction,258,552,8295.250010490417,3864.6100018024445,46.58822816569898,Low Revenue / Low Profit
+PROD-000476,Audible Polarized bi-directional encoding Fiction,276,617,44936.00010681152,28069.030086517334,62.46446061019692,Low Revenue / Low Profit
+PROD-000477,HarperCollins Multi-tiered object-oriented help-desk Fiction,276,573,30388.890045166016,13186.239999294281,43.39164734116976,Low Revenue / Low Profit
+PROD-000478,McGraw-Hill Re-engineered explicit standardization Fiction,287,603,27356.6900100708,13953.740026473999,51.00668253848407,Low Revenue / Low Profit
+PROD-000479,Audible Implemented 3rdgeneration protocol Fiction,284,591,12998.050012588501,6939.819986343384,53.39123929837343,Low Revenue / Low Profit
+PROD-000480,Penguin Object-based even-keeled access Fiction,271,563,32220.10991668701,18599.88001060486,57.727549839834204,Low Revenue / Low Profit
+PROD-000481,Hachette Re-contextualized systemic time-frame Fiction,259,526,39918.95000457764,24646.480005264282,61.74130332195108,Low Revenue / Low Profit
+PROD-000482,Pearson User-friendly actuating portal Fiction,287,631,25317.69009399414,10670.410005927086,42.146064535556974,Low Revenue / Low Profit
+PROD-000483,Pearson User-friendly modular forecast Fiction,286,645,36259.8299369812,16030.159977674484,44.209142749799305,Low Revenue / Low Profit
+PROD-000484,Scholastic Vision-oriented discrete portal Non-Fiction,261,572,32080.249965667725,16655.319982528687,51.91767520625059,Low Revenue / Low Profit
+PROD-000485,Audible Multi-channeled directional productivity Non-Fiction,281,569,39249.06999588013,20203.969980716705,51.476302452102594,Low Revenue / Low Profit
+PROD-000486,McGraw-Hill Ergonomic regional extranet Non-Fiction,303,681,49779.4799079895,24662.22002696991,49.542944346856615,Low Revenue / Low Profit
+PROD-000487,Scholastic Synergistic web-enabled success Non-Fiction,289,612,16210.63000869751,7034.0799941420555,43.3917743503371,Low Revenue / Low Profit
+PROD-000488,Random House Visionary stable software Non-Fiction,285,611,33247.760009765625,19854.219968795776,59.71596270835732,Low Revenue / Low Profit
+PROD-000489,McGraw-Hill Devolved responsive attitude Non-Fiction,257,597,44349.64993286133,27241.010013580322,61.42328080338649,Low Revenue / Low Profit
+PROD-000490,McGraw-Hill Self-enabling secondary analyzer Non-Fiction,258,584,22119.269996643066,9243.440020084381,41.78908264823936,Low Revenue / Low Profit
+PROD-000491,Scholastic Integrated zero tolerance intranet Non-Fiction,254,545,26617.939975738525,12468.399975538254,46.842092163791925,Low Revenue / Low Profit
+PROD-000492,McGraw-Hill Automated optimal hierarchy Non-Fiction,288,596,22716.920030593872,11873.549977302551,52.26742868888882,Low Revenue / Low Profit
+PROD-000493,Simon & Schuster Upgradable clear-thinking array Non-Fiction,283,609,38544.749938964844,18055.989983916283,46.84422654838267,Low Revenue / Low Profit
+PROD-000494,Penguin Implemented fresh-thinking synergy Non-Fiction,268,572,23336.029983520508,10313.839998841286,44.19706353704866,Low Revenue / Low Profit
+PROD-000495,Audible Operative context-sensitive customer loyalty Non-Fiction,290,597,28373.610076904297,17348.740056037903,61.14392919693896,Low Revenue / Low Profit
+PROD-000496,HarperCollins De-engineered zero tolerance moratorium Academic,281,623,22678.89000892639,11760.21996665001,51.85535959661692,Low Revenue / Low Profit
+PROD-000497,HarperCollins Multi-lateral multi-tasking middleware Academic,276,583,21603.830015182495,10770.920005321503,49.856530058568495,Low Revenue / Low Profit
+PROD-000498,Pearson Future-proofed composite extranet Academic,271,561,20353.80998802185,11103.060027122498,54.55027846706151,Low Revenue / Low Profit
+PROD-000499,Simon & Schuster Polarized explicit synergy Academic,253,572,28788.48997116089,13497.099969863892,46.88366768588671,Low Revenue / Low Profit
+PROD-000500,Simon & Schuster Mandatory bifurcated Local Area Network Academic,247,540,22380.59006500244,11758.600011348724,52.539276119159105,Low Revenue / Low Profit
+PROD-000501,Pearson Compatible client-server system engine Academic,300,657,29493.120002746582,14982.299962997437,50.79930492807201,Low Revenue / Low Profit
+PROD-000502,Scholastic Face-to-face systematic success Academic,246,519,17952.910036087036,9230.240003585815,51.413614756784085,Low Revenue / Low Profit
+PROD-000503,McGraw-Hill Synergistic hybrid website Academic,322,680,33624.84996795654,17084.999987602234,50.8106355980286,Low Revenue / Low Profit
+PROD-000504,Scholastic Realigned high-level array Academic,255,536,31919.93994140625,14200.91000676155,44.48915014511121,Low Revenue / Low Profit
+PROD-000505,McGraw-Hill Object-based 24/7 firmware Academic,286,590,43011.70997619629,26766.6199760437,62.231006372118166,Low Revenue / Low Profit
+PROD-000506,Pearson Public-key bottom-line knowledgebase Children's Books,267,570,7778.780013084412,2895.3600042685866,37.22126090978796,Low Revenue / Low Profit
+PROD-000507,Penguin Multi-layered systematic synergy Children's Books,254,572,15602.159969329834,5957.189989209175,38.18182867577057,Low Revenue / Low Profit
+PROD-000508,HarperCollins Synergistic empowering paradigm Children's Books,277,582,41863.26014709473,23300.060066223145,55.65753833875776,Low Revenue / Low Profit
+PROD-000509,Hachette Multi-tiered scalable hub Children's Books,271,590,26256.779983520508,14796.789986610413,56.35416831727764,Low Revenue / Low Profit
+PROD-000510,HarperCollins Customer-focused systematic emulation Children's Books,265,583,18699.120023727417,7950.13999068737,42.51611830182059,Low Revenue / Low Profit
+PROD-000511,HarperCollins Phased 4thgeneration process improvement Children's Books,276,607,19479.43999481201,9050.159989118576,46.460062463443094,Low Revenue / Low Profit
+PROD-000512,Pearson Realigned fresh-thinking pricing structure Children's Books,299,632,19194.869956970215,9728.939991235733,50.685104994435626,Low Revenue / Low Profit
+PROD-000513,Hachette Face-to-face secondary architecture Children's Books,267,569,13835.41999053955,5826.599985416979,42.113647358743854,Low Revenue / Low Profit
+PROD-000514,Penguin Sharable maximized standardization Children's Books,283,607,27941.6399269104,12897.019990742207,46.156990156906204,Low Revenue / Low Profit
+PROD-000515,Penguin Innovative solution-oriented installation Children's Books,291,604,29808.739986419678,16698.759999275208,56.019677473394914,Low Revenue / Low Profit
+PROD-000516,Scholastic Customizable client-driven analyzer Children's Books,272,581,25052.969898223877,11140.410012722015,44.467422656791726,Low Revenue / Low Profit
+PROD-000517,McGraw-Hill Automated exuding methodology Children's Books,291,651,10011.31000995636,4002.819999322295,39.98297920393481,Low Revenue / Low Profit
+PROD-000518,Random House Customizable bandwidth-monitored encoding Children's Books,272,597,29902.8399810791,13381.380002498627,44.74952884396813,Low Revenue / Low Profit
+PROD-000519,McGraw-Hill Public-key client-driven info-mediaries Children's Books,251,550,14883.61996459961,8023.469968795776,53.908054545059855,Low Revenue / Low Profit
+PROD-000520,Simon & Schuster Persevering holistic secured line Children's Books,272,579,22160.920009613037,9447.640002071857,42.631984583553525,Low Revenue / Low Profit
+PROD-000521,HarperCollins User-friendly tangible moratorium Comics,277,588,20320.650016784668,10948.859977722168,53.880461346849195,Low Revenue / Low Profit
+PROD-000522,McGraw-Hill Operative optimizing synergy Comics,294,641,19414.3300075531,8156.2600038051605,42.01154508361601,Low Revenue / Low Profit
+PROD-000523,Random House Upgradable coherent instruction set Comics,283,627,34665.62995529175,21046.819984436035,60.713796378661264,Low Revenue / Low Profit
+PROD-000524,Simon & Schuster Streamlined bandwidth-monitored matrix Comics,276,594,24797.930030822754,12153.66996729374,49.01082450102591,Low Revenue / Low Profit
+PROD-000525,Pearson Seamless incremental focus group Comics,322,677,39869.300048828125,17260.78999633342,43.29343624090227,Low Revenue / Low Profit
+PROD-000526,Pearson Automated system-worthy hub Comics,294,657,12117.609983444214,6337.499998092651,52.299917283617106,Low Revenue / Low Profit
+PROD-000527,Penguin Extended leadingedge intranet Comics,274,635,31889.470027923584,15885.019989490509,49.81274375391314,Low Revenue / Low Profit
+PROD-000528,Audible Front-line high-level attitude Audiobooks,276,648,23822.470027923584,11364.999990940094,47.70705966937338,Low Revenue / Low Profit
+PROD-000529,HarperCollins Synergized holistic moratorium Audiobooks,272,577,42562.81001281738,25442.829999923706,59.777138756256555,Low Revenue / Low Profit
+PROD-000530,Scholastic Stand-alone heuristic approach Audiobooks,276,610,23327.29002380371,12131.98994588852,52.00771256973593,Low Revenue / Low Profit
+PROD-000531,Hachette Object-based even-keeled core Audiobooks,258,572,30900.029949188232,12063.669994831085,39.04096537986691,Low Revenue / Low Profit
+PROD-000532,Hachette Decentralized logistical array Audiobooks,285,603,11540.169981002808,4728.450022876263,40.97383340678812,Low Revenue / Low Profit
+PROD-000533,Hachette Switchable didactic project Audiobooks,251,523,16013.649984359741,9006.550000190735,56.24295528494302,Low Revenue / Low Profit
+PROD-000534,McGraw-Hill Sharable radical adapter Audiobooks,282,632,43138.81990432739,25443.709955215454,58.9810059979483,Low Revenue / Low Profit
+PROD-000535,HarperCollins Business-focused zero tolerance groupware Audiobooks,293,631,17099.37003135681,8704.540009260178,50.905618121005624,Low Revenue / Low Profit
+PROD-000536,McGraw-Hill Fully-configurable clear-thinking toolset Audiobooks,267,584,26319.79995727539,15625.639953613281,59.36838417836835,Low Revenue / Low Profit
+PROD-000537,Hachette Re-contextualized demand-driven architecture Music,267,560,15614.010038375854,7249.589984059334,46.430032811823565,Low Revenue / Low Profit
+PROD-000538,Penguin Virtual neutral database Music,310,662,35572.709884643555,18015.450024604797,50.644019201871146,Low Revenue / Low Profit
+PROD-000539,Hachette Reverse-engineered didactic emulation Music,276,597,20506.309967041016,9398.870002865791,45.83403848850537,Low Revenue / Low Profit
+PROD-000540,Penguin Managed zero-defect circuit Music,285,588,32442.849948883057,16410.14997291565,50.5817152277666,Low Revenue / Low Profit
+PROD-000541,Pearson Right-sized 24hour focus group Music,269,590,24855.740020751953,14799.479982376099,59.541498140952854,Low Revenue / Low Profit
+PROD-000542,Random House Digitized clear-thinking moratorium Music,245,512,36733.05005645752,21470.269965171814,58.44946153987402,Low Revenue / Low Profit
+PROD-000543,Scholastic Function-based context-sensitive budgetary management Music,289,640,16236.859994888306,7461.119998216629,45.951741904318574,Low Revenue / Low Profit
+PROD-000544,Random House Switchable 4thgeneration capacity Music,299,645,26937.949951171875,12058.619954228401,44.764430760640785,Low Revenue / Low Profit
+PROD-000545,Hachette Advanced heuristic utilization Music,269,585,31811.750034332275,14266.430041275918,44.84641689274913,Low Revenue / Low Profit
+PROD-000546,HarperCollins Front-line optimizing Graphic Interface Music,259,574,15677.939994812012,7641.5700035095215,48.74090605040072,Low Revenue / Low Profit
+PROD-000547,Pearson Ameliorated context-sensitive firmware Movies,273,601,44517.87991333008,19271.88996118307,43.2902240598669,Low Revenue / Low Profit
+PROD-000548,Scholastic Business-focused clear-thinking support Movies,269,566,36881.87999725342,18893.440092086792,51.22688998905094,Low Revenue / Low Profit
+PROD-000549,HarperCollins Operative multi-tasking budgetary management Movies,315,727,12951.120028495789,5077.400005698204,39.20433132058556,Low Revenue / Low Profit
+PROD-000550,Scholastic User-friendly asymmetric leverage Movies,281,617,38902.47002410889,17425.320048093796,44.79232305119666,Low Revenue / Low Profit
+PROD-000551,Simon & Schuster Organized zero-defect hierarchy Movies,277,592,8662.989999771118,3805.2400047779083,43.92524988345185,Low Revenue / Low Profit
+PROD-000552,Simon & Schuster Profound optimizing benchmark Movies,288,629,22396.920028686523,12855.31999206543,57.397713505249925,Low Revenue / Low Profit
+PROD-000553,Scholastic Organized motivating definition Movies,270,566,27123.38999557495,14925.450033187866,55.02796676825014,Low Revenue / Low Profit
+PROD-000554,Audible Seamless 6thgeneration superstructure Movies,271,600,24501.4100151062,11758.590001821518,47.991482916990606,Low Revenue / Low Profit
+PROD-000555,Simon & Schuster Switchable multi-state framework Movies,292,644,45424.659996032715,23671.65003013611,52.111892597993105,Low Revenue / Low Profit
+PROD-000556,Melissa & Doug Persevering secondary algorithm Action Figures,286,633,99398.6198425293,58760.46998214722,59.11598176638425,High Revenue / High Profit
+PROD-000557,Hasbro Centralized mission-critical initiative Action Figures,276,594,21966.399980545044,9058.640003144741,41.23861903255743,Low Revenue / Low Profit
+PROD-000558,Hasbro Optimized systemic benchmark Action Figures,274,607,99119.5901184082,41172.58999359608,41.53829726738309,High Revenue / High Profit
+PROD-000559,Fisher-Price Pre-emptive transitional intranet Action Figures,275,617,89852.8699798584,50064.939977645874,55.71879895307576,Low Revenue / High Profit
+PROD-000560,Nerf Compatible attitude-oriented Graphic Interface Action Figures,288,595,50077.970054626465,29391.380088806152,58.69123699851493,Low Revenue / Low Profit
+PROD-000561,Hasbro Robust client-server architecture Action Figures,278,525,40100.25003051758,15027.520020961761,37.474878609298784,Low Revenue / Low Profit
+PROD-000562,Lego De-engineered even-keeled process improvement Action Figures,275,580,89716.76998901367,55151.240016937256,61.47260988518739,Low Revenue / High Profit
+PROD-000563,Nerf Sharable optimal neural-net Action Figures,276,576,97548.46981811523,50086.55001974106,51.34529543429059,High Revenue / High Profit
+PROD-000564,Bandai Universal fresh-thinking implementation Action Figures,305,651,91585.740234375,54023.96004867554,58.98730513115255,High Revenue / High Profit
+PROD-000565,Melissa & Doug Right-sized multi-tasking frame Action Figures,302,624,51296.22988128662,30140.11992073059,58.756988555461085,Low Revenue / Low Profit
+PROD-000566,Spin Master Persevering motivating portal Action Figures,259,563,15682.679960250854,8967.829979896545,57.183019755719734,Low Revenue / Low Profit
+PROD-000567,Hasbro Optional bandwidth-monitored utilization Action Figures,288,667,114786.95010375977,55776.370176553726,48.591211915758365,High Revenue / High Profit
+PROD-000568,Lego Total bifurcated projection Board Games,262,571,51955.05982208252,29377.13996696472,56.54336664718558,Low Revenue / Low Profit
+PROD-000569,Nerf Streamlined zero administration neural-net Board Games,302,670,61030.78999328613,37516.71990585327,61.47179138592242,Low Revenue / Low Profit
+PROD-000570,Barbie Up-sized didactic Internet solution Board Games,295,634,33792.78005981445,15448.140003800392,45.71432115515983,Low Revenue / Low Profit
+PROD-000571,Hasbro Organized discrete installation Board Games,274,568,24265.210021972656,14081.030018806458,58.029705929006134,Low Revenue / Low Profit
+PROD-000572,Melissa & Doug Mandatory logistical initiative Board Games,276,578,53724.739921569824,33238.57002449036,61.86827534765874,Low Revenue / Low Profit
+PROD-000573,Hasbro Operative upward-trending attitude Board Games,302,652,17334.830011367798,7064.359998524189,40.75240422831685,Low Revenue / Low Profit
+PROD-000574,Lego Intuitive interactive functionalities Board Games,277,612,35106.65015029907,20542.9599943161,58.51586496110366,Low Revenue / Low Profit
+PROD-000575,Melissa & Doug Synchronized eco-centric hub Board Games,278,620,41338.4499130249,24759.009937286377,59.89341639412879,Low Revenue / Low Profit
+PROD-000576,Hasbro Distributed systemic leverage Board Games,291,654,17783.110021591187,7863.579982444644,44.21937429896771,Low Revenue / Low Profit
+PROD-000577,Fisher-Price Cloned background artificial intelligence Board Games,290,602,91798.73997497559,44128.240086078644,48.070638113451274,High Revenue / High Profit
+PROD-000578,Mattel Cross-group intermediate attitude Board Games,278,576,68720.21002960205,33981.17995929718,49.448597355362246,Low Revenue / Low Profit
+PROD-000579,Bandai User-friendly user-facing hub Board Games,256,533,20695.18999862671,7771.670004189014,37.55302562916661,Low Revenue / Low Profit
+PROD-000580,Nerf De-engineered next generation approach Educational Toys,291,616,30248.039978027344,15463.73002243042,51.12308114397997,Low Revenue / Low Profit
+PROD-000581,Barbie Reverse-engineered next generation open architecture Educational Toys,276,601,93182.21003723145,42118.11004765332,45.19973290054486,High Revenue / High Profit
+PROD-000582,Spin Master Managed static capability Educational Toys,296,615,11701.700028419495,5018.270008087158,42.88496539733088,Low Revenue / Low Profit
+PROD-000583,Bandai Open-source heuristic secured line Educational Toys,293,623,12513.310018539429,6009.110004663467,48.021746410506175,Low Revenue / Low Profit
+PROD-000584,Spin Master Versatile interactive success Educational Toys,336,694,27819.03001022339,12851.709993481636,46.19754890360549,Low Revenue / Low Profit
+PROD-000585,Lego Business-focused executive policy Educational Toys,300,665,12506.909999847412,5903.109990358353,47.19878843319711,Low Revenue / Low Profit
+PROD-000586,Fisher-Price Integrated heuristic benchmark Educational Toys,312,667,101937.33988952637,40424.39998841286,39.6561260399991,High Revenue / Low Profit
+PROD-000587,Bandai Re-engineered motivating data-warehouse Educational Toys,264,572,20287.96001815796,9108.659977912903,44.89687464762621,Low Revenue / Low Profit
+PROD-000588,Ravensburger Distributed stable matrices Educational Toys,296,677,108015.77038574219,67725.90005493164,62.70001113084807,High Revenue / High Profit
+PROD-000589,Ravensburger Face-to-face bi-directional hardware Educational Toys,302,640,26695.78985977173,13833.030011177063,51.81727187635027,Low Revenue / Low Profit
+PROD-000590,Ravensburger Realigned holistic budgetary management Educational Toys,269,536,51275.26991271973,27236.490060806274,53.11817979148227,Low Revenue / Low Profit
+PROD-000591,Spin Master Virtual even-keeled orchestration Educational Toys,258,576,53690.67988586426,22858.520006656647,42.574465540852394,Low Revenue / Low Profit
+PROD-000592,Fisher-Price Face-to-face interactive open architecture Educational Toys,289,613,107474.51013183594,46552.43001794815,43.31485666772856,High Revenue / High Profit
+PROD-000593,Bandai Visionary regional pricing structure Educational Toys,288,624,80145.1900024414,41385.15993928909,51.637733890241456,Low Revenue / High Profit
+PROD-000594,Fisher-Price Synergistic secondary open architecture Educational Toys,273,586,90426.76979064941,57158.53992462158,63.20975531576719,Low Revenue / High Profit
+PROD-000595,Lego Assimilated real-time protocol Dolls,278,609,55716.7399597168,25332.120019376278,45.4659049285572,Low Revenue / Low Profit
+PROD-000596,Fisher-Price Team-oriented encompassing algorithm Dolls,279,648,105589.47009277344,49550.830078698695,46.92781395262439,High Revenue / High Profit
+PROD-000597,Barbie Enterprise-wide encompassing standardization Dolls,308,680,19034.379976272583,8367.39998780936,43.95940397449137,Low Revenue / Low Profit
+PROD-000598,Hasbro Virtual fault-tolerant Graphical User Interface Dolls,274,589,81972.85998535156,41784.80999084562,50.97395650013006,Low Revenue / High Profit
+PROD-000599,Fisher-Price Monitored 24hour contingency Dolls,262,569,13579.39997291565,7250.739982128143,53.39514261741955,Low Revenue / Low Profit
+PROD-000600,Fisher-Price Digitized non-volatile protocol Remote Control,274,613,17770.300033569336,10047.860003948212,56.54299581305382,Low Revenue / Low Profit
+PROD-000601,Mattel Open-architected asymmetric circuit Remote Control,296,663,117355.44021606445,53069.219985961914,45.220928734326726,High Revenue / High Profit
+PROD-000602,Lego User-centric scalable algorithm Remote Control,260,563,37276.18000411987,19838.060041427612,53.21913361088784,Low Revenue / Low Profit
+PROD-000603,Mattel Cross-group value-added moderator Remote Control,258,519,66421.96003723145,39632.970054626465,59.66847414983092,Low Revenue / Low Profit
+PROD-000604,Nerf Extended homogeneous instruction set Remote Control,267,574,19380.459991455078,8399.729986906052,43.341231274229436,Low Revenue / Low Profit
+PROD-000605,Mattel Persevering global complexity Remote Control,287,594,36181.479946136475,22239.839990615845,61.467469057994286,Low Revenue / Low Profit
+PROD-000606,Lego Multi-layered fault-tolerant success Remote Control,302,667,120688.57012939453,69666.40996360779,57.724115787365726,High Revenue / High Profit
+PROD-000607,Lego Inverse zero-defect open system Remote Control,278,616,72851.36013031006,38548.51002597809,52.913919461525396,Low Revenue / Low Profit
+PROD-000608,Barbie Right-sized attitude-oriented application Puzzles,276,588,22515.879997253418,10127.689994573593,44.98020950462079,Low Revenue / Low Profit
+PROD-000609,Lego Distributed cohesive system engine Puzzles,301,651,81248.01985931396,41032.56990814209,50.5028553055109,Low Revenue / Low Profit
+PROD-000610,Melissa & Doug Secured actuating service-desk Puzzles,274,623,109356.65022277832,46654.14993143082,42.66238023603346,High Revenue / High Profit
+PROD-000611,Mattel Configurable encompassing intranet Puzzles,306,661,117921.23979187012,56882.120138570666,48.23738305242302,High Revenue / High Profit
+PROD-000612,Nerf Switchable interactive matrix Puzzles,285,626,89322.8599395752,38529.79004907608,43.135419169449534,Low Revenue / Low Profit
+PROD-000613,Hasbro Robust leadingedge instruction set Puzzles,284,611,23484.409992218018,11997.290028572083,51.08618880588271,Low Revenue / Low Profit
+PROD-000614,Bandai Future-proofed didactic system engine Puzzles,273,593,32911.460037231445,17364.95998096466,52.76265459302129,Low Revenue / Low Profit
+PROD-000615,Nerf Profound bifurcated hardware Puzzles,264,569,51025.599838256836,24132.23997402191,47.294377823126695,Low Revenue / Low Profit
+PROD-000616,Bandai Optional bifurcated forecast Arts & Crafts,297,627,35555.8699798584,20800.510021209717,58.500917100306474,Low Revenue / Low Profit
+PROD-000617,Fisher-Price Synergistic systematic parallelism Arts & Crafts,305,663,107456.26013183594,50147.93006134033,46.668225750472644,High Revenue / High Profit
+PROD-000618,Lego Pre-emptive multi-tasking secured line Arts & Crafts,279,624,96111.06980895996,40424.19006848335,42.05986901283541,High Revenue / Low Profit
+PROD-000619,Melissa & Doug Integrated 6thgeneration definition Arts & Crafts,279,589,98772.66007995605,56878.43994140625,57.58520616470528,High Revenue / High Profit
+PROD-000620,Lego Object-based radical approach Arts & Crafts,293,630,58242.95009613037,23589.209958314896,40.50139960180717,Low Revenue / Low Profit
+PROD-000621,Bandai Adaptive demand-driven framework Arts & Crafts,271,556,82368.1898651123,39242.6100564003,47.64291909372385,Low Revenue / Low Profit
+PROD-000622,Hasbro Extended zero administration challenge Outdoor Toys,294,620,65524.76003265381,23928.990045547485,36.519004470405754,Low Revenue / Low Profit
+PROD-000623,Bandai Virtual eco-centric frame Outdoor Toys,289,639,15446.010026931763,8049.7300062179565,52.11527114240114,Low Revenue / Low Profit
+PROD-000624,Hasbro Inverse bottom-line ability Outdoor Toys,294,624,86372.67979431152,36706.99995136261,42.49839189750382,Low Revenue / Low Profit
+PROD-000625,Barbie Proactive value-added Internet solution Outdoor Toys,230,456,45176.58986663818,18079.060000181198,40.018646944248765,Low Revenue / Low Profit
+PROD-000626,Hasbro Enhanced clear-thinking implementation Outdoor Toys,275,568,60085.81968688965,28368.17994785309,47.21277016054896,Low Revenue / Low Profit
+PROD-000627,Melissa & Doug Public-key tertiary emulation Outdoor Toys,285,591,39123.93001174927,18570.310022115707,47.46534925437929,Low Revenue / Low Profit
+PROD-000628,Barbie Profit-focused next generation secured line Outdoor Toys,250,502,80862.60005187988,38278.71000242233,47.33796585549246,Low Revenue / Low Profit
+PROD-000629,Ravensburger Multi-channeled asynchronous infrastructure Outdoor Toys,292,621,27298.809997558594,13577.540003061295,49.73674678227941,Low Revenue / Low Profit
+PROD-000630,Barbie User-centric 6thgeneration Internet solution Outdoor Toys,292,591,33886.579986572266,14408.839999318123,42.52078552933846,Low Revenue / Low Profit
+PROD-000631,Melissa & Doug Ameliorated logistical archive Outdoor Toys,267,542,18490.669998168945,9097.139979600906,49.198541645606994,Low Revenue / Low Profit
+PROD-000632,Nerf Intuitive object-oriented interface Outdoor Toys,271,575,29339.259952545166,13764.549996972084,46.91512335088062,Low Revenue / Low Profit
+PROD-000633,Bridgestone Re-engineered impactful strategy Car Accessories,253,559,185749.88983154297,87378.32008552551,47.040846250174965,High Revenue / High Profit
+PROD-000634,Thule Sharable intangible frame Car Accessories,281,634,268213.2196960449,95568.57997846603,35.63156957243569,High Revenue / High Profit
+PROD-000635,Castrol Customizable impactful adapter Car Accessories,272,623,254608.05960083008,134317.90021896362,52.75477156125569,High Revenue / High Profit
+PROD-000636,Bosch Inverse composite website Car Accessories,291,672,83351.55986022949,17568.359975099564,21.077421951742213,Low Revenue / Low Profit
+PROD-000637,Mobil Secured logistical solution Car Accessories,316,675,130284.39018249512,64764.94007873535,49.71043728877744,High Revenue / High Profit
+PROD-000638,Castrol Multi-lateral background Internet solution Car Accessories,299,659,313079.33963012695,67410.33979797363,21.53139197163647,High Revenue / High Profit
+PROD-000639,Bridgestone Customer-focused dynamic Internet solution Car Accessories,292,621,157797.4203338623,48043.0499727726,30.446030024524344,High Revenue / High Profit
+PROD-000640,Castrol Reverse-engineered impactful moderator Car Accessories,321,671,224634.2198791504,95630.52021598816,42.571661729649136,High Revenue / High Profit
+PROD-000641,Continental Configurable hybrid function Car Accessories,283,615,234949.19033813477,128171.6098022461,54.552905510244045,High Revenue / High Profit
+PROD-000642,Goodyear User-friendly global definition Car Accessories,265,558,117237.55012512207,34186.31008028984,29.159863920565055,High Revenue / Low Profit
+PROD-000643,Bridgestone Managed zero-defect concept Car Accessories,269,591,194880.77029418945,76476.54994475842,39.24273792088897,High Revenue / High Profit
+PROD-000644,Bridgestone Compatible multimedia productivity Maintenance,275,555,31257.069972991943,10659.689967632294,34.10329239702548,Low Revenue / Low Profit
+PROD-000645,Bridgestone Customizable multi-tasking migration Maintenance,287,603,193663.4005126953,70456.05007791519,36.38067383480471,High Revenue / High Profit
+PROD-000646,Goodyear Ergonomic zero-defect hardware Maintenance,283,607,267773.0998535156,123229.18988800049,46.02000348631457,High Revenue / High Profit
+PROD-000647,Michelin Monitored upward-trending project Maintenance,257,543,151618.06973266602,78513.5899233818,51.78379467685975,High Revenue / High Profit
+PROD-000648,Thule Digitized disintermediate benchmark Maintenance,285,638,122652.76985168457,33302.21004199982,27.151616781479827,High Revenue / Low Profit
+PROD-000649,Mobil Digitized eco-centric customer loyalty Maintenance,275,590,254216.46981811523,95418.97979402542,37.534538915710314,High Revenue / High Profit
+PROD-000650,Mobil Enhanced real-time collaboration Tires,252,572,57533.27992248535,25341.35007405281,44.04641992981321,Low Revenue / Low Profit
+PROD-000651,Michelin Virtual well-modulated projection Tires,264,545,37241.25002288818,16821.05003130436,45.16779114816573,Low Revenue / Low Profit
+PROD-000652,Yakima Compatible context-sensitive throughput Tires,274,578,230598.81982421875,47790.88003826141,20.724685440580974,High Revenue / High Profit
+PROD-000653,Mobil Self-enabling modular Local Area Network Tires,287,638,227611.43997192383,93430.90025615692,41.04842017944342,High Revenue / High Profit
+PROD-000654,Yakima Versatile non-volatile task-force Tires,273,590,252581.24978637695,128150.12963438034,50.736200625646035,High Revenue / High Profit
+PROD-000655,Bosch Reduced local software Tires,240,507,235314.15029907227,100910.1300201416,42.883154239509174,High Revenue / High Profit
+PROD-000656,Valvoline Re-contextualized secondary productivity Tires,266,564,182944.419921875,88029.38006305695,48.11810062348401,High Revenue / High Profit
+PROD-000657,Bridgestone Secured fresh-thinking product Tires,250,542,107427.0399017334,58070.120025634766,54.05540362906134,High Revenue / High Profit
+PROD-000658,Thule Intuitive coherent intranet Tires,276,598,270220.00009155273,123011.11995983124,45.522581569889006,High Revenue / High Profit
+PROD-000659,Bridgestone Cloned methodical intranet Tires,300,663,116218.38990783691,26474.90009689331,22.780301910814924,High Revenue / Low Profit
+PROD-000660,Yakima Self-enabling exuding utilization Tires,294,612,151363.26992797852,39699.12996792793,26.22771692684594,High Revenue / Low Profit
+PROD-000661,Thule Grass-roots optimizing approach Batteries,319,663,78225.98993682861,21359.680097341537,27.305094016183805,Low Revenue / Low Profit
+PROD-000662,Yakima Multi-channeled motivating archive Batteries,285,593,164056.099609375,83328.92009830475,50.79294235125344,High Revenue / High Profit
+PROD-000663,Michelin Integrated maximized knowledge user Batteries,247,513,206452.16049194336,79787.49987983704,38.64696774774158,High Revenue / High Profit
+PROD-000664,Continental Automated analyzing hub Batteries,250,521,209854.43927001953,62343.29004859924,29.707872878677676,High Revenue / High Profit
+PROD-000665,Goodyear Horizontal asynchronous project Batteries,257,565,188944.52990722656,93535.73983478546,49.50433859117929,High Revenue / High Profit
+PROD-000666,Continental Cross-group reciprocal policy Batteries,280,588,217344.9301147461,53088.63007068634,24.425980418617762,High Revenue / High Profit
+PROD-000667,Mobil Profit-focused human-resource Local Area Network Batteries,285,611,31435.480018615723,13347.129979848862,42.45880760193529,Low Revenue / Low Profit
+PROD-000668,Goodyear Reduced neutral utilization Batteries,302,622,92800.41987609863,22140.370015084743,23.858049397454444,High Revenue / Low Profit
+PROD-000669,Yakima User-centric 6thgeneration knowledge user Batteries,266,568,93121.26963806152,27579.139929294586,29.616370176746543,High Revenue / Low Profit
+PROD-000670,Bridgestone Re-engineered solution-oriented core Batteries,265,566,242172.78021240234,128282.92015504837,52.971651084211594,High Revenue / High Profit
+PROD-000671,Michelin Inverse real-time leverage Batteries,266,552,21782.510021209717,10266.929973125458,47.13382416961364,Low Revenue / Low Profit
+PROD-000672,Bosch Profit-focused coherent approach Car Electronics,304,633,59491.57996368408,21126.310029029846,35.51142874659934,Low Revenue / Low Profit
+PROD-000673,Castrol Organized bi-directional workforce Car Electronics,278,581,115589.15998840332,27174.79001659155,23.50980837590472,High Revenue / Low Profit
+PROD-000674,Mobil Mandatory transitional artificial intelligence Car Electronics,298,624,229453.259765625,52810.26992344856,23.01569826351197,High Revenue / High Profit
+PROD-000675,Mobil Profit-focused secondary conglomeration Car Electronics,275,624,313004.4804382324,164667.3598499298,52.60862707760021,High Revenue / High Profit
+PROD-000676,Mobil Balanced dynamic strategy Car Electronics,274,591,92239.50979614258,27623.590029001236,29.94767653259628,High Revenue / Low Profit
+PROD-000677,Yakima Organic leadingedge moderator Car Electronics,260,557,85638.94982910156,27426.899954795837,32.02619837063405,Low Revenue / Low Profit
+PROD-000678,Michelin Programmable reciprocal complexity Car Electronics,259,537,170871.46966552734,68002.38011193275,39.79738703309811,High Revenue / High Profit
+PROD-000679,Goodyear Multi-lateral holistic forecast Car Electronics,272,593,199117.3204650879,85213.37008619308,42.79555886306431,High Revenue / High Profit
+PROD-000680,Michelin Networked incremental time-frame Car Electronics,252,548,56200.49988555908,26354.569907188416,46.89383539444338,Low Revenue / Low Profit
+PROD-000681,Continental Mandatory systematic policy Car Electronics,260,560,255680.04962158203,90163.1600933075,35.2640576481243,High Revenue / High Profit
+PROD-000682,Castrol Business-focused responsive project Car Electronics,293,640,51716.02005767822,12473.930073916912,24.120050344177482,Low Revenue / Low Profit
+PROD-000683,Yakima Managed asymmetric groupware Car Electronics,293,613,35490.18004608154,10774.209997057915,30.358284976487436,Low Revenue / Low Profit
+PROD-000684,Castrol Cross-platform next generation service-desk Car Electronics,293,640,41391.1600151062,15815.41003370285,38.209632269138694,Low Revenue / Low Profit
+PROD-000685,Thule Networked executive extranet Motorcycle Gear,268,542,58172.33988189697,12958.600042313337,22.2762228038656,Low Revenue / Low Profit
+PROD-000686,Mobil Up-sized stable portal Motorcycle Gear,308,681,247346.4801940918,94955.77021795511,38.389780256199195,High Revenue / High Profit
+PROD-000687,Bridgestone Distributed full-range artificial intelligence Motorcycle Gear,257,540,191934.4803466797,68919.79013681412,35.90797756209747,High Revenue / High Profit
+PROD-000688,Yakima Reduced stable circuit Motorcycle Gear,287,635,180247.28048706055,48535.44995689392,26.9271468760818,High Revenue / High Profit
+PROD-000689,Thule Monitored fault-tolerant projection Motorcycle Gear,269,538,26734.589958190918,7222.249982714653,27.014627843588478,Low Revenue / Low Profit
+PROD-000690,Michelin Total stable infrastructure Motorcycle Gear,282,576,91975.6000213623,45491.61008453369,49.460520044411545,High Revenue / High Profit
+PROD-000691,Castrol De-engineered radical strategy Motorcycle Gear,257,586,242959.0206604004,91293.41979646683,37.5756452871423,High Revenue / High Profit
+PROD-000692,Michelin Configurable fault-tolerant open architecture Motorcycle Gear,276,591,277699.9606628418,67814.00985693932,24.419884574370883,High Revenue / High Profit
+PROD-000693,Continental Multi-tiered secondary utilization Tools,285,610,87278.08009338379,32990.93007850647,37.79978895411952,Low Revenue / Low Profit
+PROD-000694,Goodyear Managed clear-thinking secured line Tools,327,729,308446.1104736328,166313.459400177,53.91977844842823,High Revenue / High Profit
+PROD-000695,Continental Total user-facing software Tools,262,568,149921.5396270752,37088.85000830889,24.73884012968794,High Revenue / Low Profit
+PROD-000696,Bridgestone Progressive background project Tools,253,564,154526.17991638184,77118.29002189636,49.906294236761106,High Revenue / High Profit
+PROD-000697,Valvoline Synchronized interactive migration Tools,285,587,267976.46005249023,115613.31008338928,43.143084307010916,High Revenue / High Profit
+PROD-000698,Goodyear Multi-lateral 3rdgeneration hierarchy Tools,302,630,330064.14935302734,159281.4700307846,48.25773121467416,High Revenue / High Profit
+PROD-000699,Castrol Integrated contextually-based data-warehouse Tools,264,535,91183.59997558594,25271.28997516632,27.714731576656998,Low Revenue / Low Profit
+PROD-000700,Bosch Mandatory zero administration matrix Tools,312,667,233996.83016967773,65868.35000634193,28.14924884178086,High Revenue / High Profit
+PROD-000701,Mobil Ergonomic directional challenge Cleaning,253,506,251479.42993164062,93212.4204249382,37.06562419450212,High Revenue / High Profit
+PROD-000702,Castrol Distributed asynchronous frame Cleaning,284,619,242835.40948486328,73321.2801437378,30.193817408786156,High Revenue / High Profit
+PROD-000703,Castrol Cross-platform motivating throughput Cleaning,274,591,284792.16955566406,77105.79981803894,27.074410064834392,High Revenue / High Profit
+PROD-000704,Valvoline Quality-focused user-facing moderator Cleaning,259,545,293433.810546875,148773.27966308594,50.70079667568505,High Revenue / High Profit
+PROD-000705,Mobil Automated stable Graphical User Interface Cleaning,268,609,70614.47983551025,16517.310033082962,23.390825892307742,Low Revenue / Low Profit
+PROD-000706,Castrol Visionary regional capacity Cleaning,264,584,59160.71000671387,23361.439979314804,39.488099410341135,Low Revenue / Low Profit
+PROD-000707,Castrol Right-sized homogeneous collaboration Cleaning,289,582,37759.44999694824,8947.649988025427,23.696452116618715,Low Revenue / Low Profit
+PROD-000708,Continental Diverse contextually-based solution Cleaning,264,587,165712.2300415039,36557.50997257233,22.060840025758036,High Revenue / Low Profit
+PROD-000709,Castrol Visionary regional workforce Cleaning,279,636,342920.62994384766,115002.15999126434,33.53608676447831,High Revenue / High Profit
+PROD-000710,Mobil Down-sized uniform intranet Cleaning,292,637,67067.24997711182,15412.33003938198,22.980411519246395,Low Revenue / Low Profit
+PROD-000711,Yakima Balanced incremental hierarchy Cleaning,298,640,68663.13986206055,36537.74989318848,53.213048466164324,Low Revenue / Low Profit
+PROD-000712,Mobil Synergistic uniform encoding Cleaning,292,621,179846.1394958496,52748.920066833496,29.330026329562003,High Revenue / High Profit
+PROD-000713,Castrol Organic reciprocal forecast Cleaning,274,618,38363.16003036499,10733.009990110993,27.977387633384897,Low Revenue / Low Profit
+PROD-000714,Braun Versatile value-added toolset Vitamins,277,585,140624.8797454834,54013.15010595322,38.409384031980316,High Revenue / High Profit
+PROD-000715,Braun Organized discrete monitoring Vitamins,249,559,108993.8602142334,54867.9700012207,50.340422748010496,High Revenue / High Profit
+PROD-000716,Garmin Front-line fault-tolerant workforce Vitamins,284,586,132917.32998657227,62770.82024002075,47.225459799983994,High Revenue / High Profit
+PROD-000717,CVS Health Phased content-based hub Vitamins,267,570,81129.94004821777,29309.890091449022,36.12709447835083,Low Revenue / Low Profit
+PROD-000718,Pfizer Synergistic object-oriented intranet Vitamins,249,583,35008.010093688965,13111.829971075058,37.45379967608836,Low Revenue / Low Profit
+PROD-000719,Johnson & Johnson Persistent zero administration forecast Vitamins,306,675,28608.930000305176,13874.19999051094,48.49604648046237,Low Revenue / Low Profit
+PROD-000720,GNC Vision-oriented homogeneous middleware Vitamins,300,662,70356.34996032715,32930.66006588936,46.80552655795596,Low Revenue / Low Profit
+PROD-000721,GNC Progressive intangible complexity Vitamins,263,560,103075.43002319336,44155.569996356964,42.838113783683816,High Revenue / High Profit
+PROD-000722,Omron Exclusive real-time challenge Supplements,293,622,142582.75038146973,66045.01000404358,46.3204769352148,High Revenue / High Profit
+PROD-000723,Johnson & Johnson Function-based actuating project Supplements,273,601,106509.40048217773,59412.879945755005,55.781818014924035,High Revenue / High Profit
+PROD-000724,Garmin Polarized holistic neural-net Supplements,302,677,67219.54008483887,26681.42999792099,39.69296720008189,Low Revenue / Low Profit
+PROD-000725,CVS Health Customer-focused transitional model Supplements,258,545,33894.23000335693,11803.890000768006,34.82566206578209,Low Revenue / Low Profit
+PROD-000726,Johnson & Johnson Decentralized executive artificial intelligence Supplements,294,627,145539.94007873535,76264.66012710333,52.401189725545485,High Revenue / High Profit
+PROD-000727,Johnson & Johnson Virtual cohesive flexibility Supplements,273,592,116104.45008850098,53533.459968447685,46.10801733063774,High Revenue / High Profit
+PROD-000728,Johnson & Johnson Organized multimedia circuit Supplements,271,594,41031.09001159668,22632.84001159668,55.16022120104517,Low Revenue / Low Profit
+PROD-000729,Philips Optional background definition Supplements,278,627,112470.36978149414,36421.449951171875,32.38315124412853,High Revenue / Low Profit
+PROD-000730,Philips Organized grid-enabled algorithm Medical Devices,294,666,140447.76025390625,53031.610070705414,37.75895747631223,High Revenue / High Profit
+PROD-000731,Pure Vitamin Operative actuating infrastructure Medical Devices,278,593,49104.71996307373,16150.790044747293,32.89050432808197,Low Revenue / Low Profit
+PROD-000732,Omron Profit-focused holistic encoding Medical Devices,293,645,100918.94967651367,55796.52010345459,55.28844709770083,High Revenue / High Profit
+PROD-000733,Philips Networked attitude-oriented hub Medical Devices,278,617,80276.30009460449,26942.67010140419,33.562421374244494,Low Revenue / Low Profit
+PROD-000734,Philips Face-to-face 4thgeneration functionalities Medical Devices,326,711,80492.62996673584,25616.060008376837,31.824106156008142,Low Revenue / Low Profit
+PROD-000735,CVS Health Cross-platform transitional projection Medical Devices,276,608,74303.94995117188,42467.16998100281,57.153314203228355,Low Revenue / High Profit
+PROD-000736,Pure Vitamin Managed client-server challenge Medical Devices,286,620,155041.59999084473,80542.83016490936,51.949173750571106,High Revenue / High Profit
+PROD-000737,Omron Automated executive leverage Medical Devices,247,547,50923.27992248535,17597.3000125885,34.55649368888815,Low Revenue / Low Profit
+PROD-000738,Garmin Total client-driven task-force Medical Devices,313,687,152967.97969055176,90865.07946777344,59.40137253011378,High Revenue / High Profit
+PROD-000739,Philips Triple-buffered methodical knowledge user Medical Devices,283,589,118457.17997741699,60303.209913134575,50.907180066781045,High Revenue / High Profit
+PROD-000740,Fitbit Seamless 24hour artificial intelligence Medical Devices,259,548,48327.569999694824,16504.329976916313,34.15096181542033,Low Revenue / Low Profit
+PROD-000741,Omron Ameliorated eco-centric data-warehouse Medical Devices,299,657,131111.14002990723,59835.199979782104,45.637006867710355,High Revenue / High Profit
+PROD-000742,Garmin Distributed neutral superstructure Medical Devices,253,564,43879.02017211914,25134.129997253418,57.2805178845441,Low Revenue / Low Profit
+PROD-000743,Pure Vitamin Robust multi-tasking interface Medical Devices,282,611,56714.909980773926,23568.76002383232,41.55655017670312,Low Revenue / Low Profit
+PROD-000744,Braun Customizable zero-defect forecast Fitness Trackers,278,581,55712.01001739502,21999.65998363495,39.4881821294295,Low Revenue / Low Profit
+PROD-000745,Pure Vitamin Front-line exuding capability Fitness Trackers,294,599,150258.67031860352,55849.29989051819,37.16877020946424,High Revenue / High Profit
+PROD-000746,Fitbit Business-focused disintermediate instruction set Fitness Trackers,283,624,104749.16006469727,36481.410098195076,34.827401074779694,High Revenue / Low Profit
+PROD-000747,Pure Vitamin Sharable regional knowledgebase Fitness Trackers,305,635,24254.85997390747,11915.300032377243,49.12541257791348,Low Revenue / Low Profit
+PROD-000748,Omron Cloned bifurcated methodology Fitness Trackers,286,561,14822.520002365112,5589.070001125336,37.70661129304283,Low Revenue / Low Profit
+PROD-000749,Philips Right-sized national adapter Fitness Trackers,267,594,141343.17001342773,65246.620161652565,46.16184860963149,High Revenue / High Profit
+PROD-000750,Johnson & Johnson Self-enabling multimedia orchestration Fitness Trackers,274,608,137619.51983642578,58736.08000397682,42.680050093032136,High Revenue / High Profit
+PROD-000751,Philips Front-line transitional circuit Fitness Trackers,288,604,25237.08005142212,8316.249990060925,32.952504699894156,Low Revenue / Low Profit
+PROD-000752,Omron Implemented interactive ability Fitness Trackers,249,530,120781.98986816406,42663.46997261047,35.322708310385096,High Revenue / High Profit
+PROD-000753,GNC Seamless heuristic encoding Fitness Trackers,269,586,84428.81980895996,38623.72007083893,45.74708039059905,Low Revenue / Low Profit
+PROD-000754,Fitbit Re-engineered intangible contingency Fitness Trackers,296,656,83566.43014526367,31391.639955818653,37.56489286577219,Low Revenue / Low Profit
+PROD-000755,Philips Synchronized static artificial intelligence Fitness Trackers,266,562,135878.99996948242,63939.02000665665,47.05585117716274,High Revenue / High Profit
+PROD-000756,GNC Progressive high-level architecture Fitness Trackers,286,615,108404.84994506836,46183.47011911869,42.60277113295308,High Revenue / High Profit
+PROD-000757,Johnson & Johnson Progressive needs-based middleware Massagers,273,574,44276.509941101074,19367.74995136261,43.74272041117649,Low Revenue / Low Profit
+PROD-000758,Omron Profit-focused neutral adapter Massagers,264,561,63062.680183410645,27834.60994866304,44.138006611373385,Low Revenue / Low Profit
+PROD-000759,Braun Networked methodical analyzer Massagers,240,526,138444.94007873535,61479.85011959076,44.40743741492207,High Revenue / High Profit
+PROD-000760,Omron Sharable human-resource hub Massagers,286,582,85010.24008178711,35412.90991091728,41.6572284431229,Low Revenue / Low Profit
+PROD-000761,Fitbit Function-based value-added adapter Massagers,285,605,49662.949951171875,24053.909959316254,48.434315687984345,Low Revenue / Low Profit
+PROD-000762,Garmin Multi-channeled zero tolerance architecture Massagers,292,640,18731.009979248047,9409.830027580261,50.23663987155709,Low Revenue / Low Profit
+PROD-000763,Garmin Monitored disintermediate superstructure Massagers,251,531,139110.84019470215,69926.30998849869,50.26661465823117,High Revenue / High Profit
+PROD-000764,Braun Switchable responsive benchmark Massagers,295,659,43562.19004821777,17774.159998893738,40.80180537117169,Low Revenue / Low Profit
+PROD-000765,CVS Health Visionary optimal support Massagers,274,592,41556.13005065918,18122.17004287243,43.60889722113325,Low Revenue / Low Profit
+PROD-000766,Johnson & Johnson Versatile full-range challenge Massagers,283,639,12186.020011901855,5391.130006194115,44.24028518686741,Low Revenue / Low Profit
+PROD-000767,Garmin Balanced heuristic moratorium Massagers,307,653,29662.130100250244,14194.86000367999,47.85516062300676,Low Revenue / Low Profit
+PROD-000768,Johnson & Johnson Mandatory secondary conglomeration Massagers,269,577,94128.24003601074,42564.570007801056,45.219766131308816,High Revenue / High Profit
+PROD-000769,CVS Health Vision-oriented systemic Local Area Network Massagers,281,618,159797.61013793945,79439.76002693176,49.71273347477368,High Revenue / High Profit
+PROD-000770,Johnson & Johnson Total mission-critical product Massagers,313,681,117767.48992919922,65895.42990112305,55.95383746459978,High Revenue / High Profit
+PROD-000771,CVS Health Enterprise-wide client-driven architecture Thermometers,298,678,99700.76011657715,35621.36992549896,35.72828319849111,High Revenue / Low Profit
+PROD-000772,Braun Universal zero-defect knowledgebase Thermometers,291,639,123687.93971252441,39033.52001941204,31.558064682889675,High Revenue / Low Profit
+PROD-000773,Johnson & Johnson Automated explicit customer loyalty Thermometers,297,628,54217.08005523682,25594.459929466248,47.207374324457156,Low Revenue / Low Profit
+PROD-000774,Garmin Balanced dedicated analyzer Thermometers,263,564,69020.11008453369,23814.72009420395,34.504030875981535,Low Revenue / Low Profit
+PROD-000775,GNC Intuitive fault-tolerant migration Thermometers,262,540,94093.40997314453,48250.159873366356,51.279000184112334,High Revenue / High Profit
+PROD-000776,Fitbit Object-based needs-based leverage Thermometers,277,622,160927.38024902344,59367.67994213104,36.89097520276777,High Revenue / High Profit
+PROD-000777,Johnson & Johnson Function-based 5thgeneration system engine Blood Pressure Monitors,298,636,113484.41987609863,65676.78998184204,57.87295740996643,High Revenue / High Profit
+PROD-000778,Omron Stand-alone content-based forecast Blood Pressure Monitors,315,677,22199.579975128174,8531.83002370596,38.43239391585245,Low Revenue / Low Profit
+PROD-000779,Pfizer Multi-channeled zero-defect application Blood Pressure Monitors,258,529,24114.890048980713,10634.369998931885,44.09877041666784,Low Revenue / Low Profit
+PROD-000780,Johnson & Johnson Streamlined full-range flexibility Blood Pressure Monitors,243,547,60710.57999420166,33799.40002441406,55.6729980633395,Low Revenue / Low Profit
+PROD-000781,Garmin Decentralized holistic Internet solution Blood Pressure Monitors,264,569,117418.67988586426,67307.57001876831,57.3227105637655,High Revenue / High Profit
+PROD-000782,Garmin Open-architected value-added intranet Blood Pressure Monitors,262,523,57309.759857177734,19567.82998895645,34.1439748442877,Low Revenue / Low Profit
+PROD-000783,GNC Networked global contingency Blood Pressure Monitors,281,609,116273.79008483887,57915.41979980469,49.80952264267541,High Revenue / High Profit
+PROD-000784,Fitbit Proactive system-worthy methodology Blood Pressure Monitors,269,598,11953.129977226257,4222.9400012642145,35.329156541508254,Low Revenue / Low Profit
+PROD-000785,Pure Vitamin Multi-layered multi-state flexibility Blood Pressure Monitors,294,623,108014.25988769531,38486.31992179155,35.63077686391277,High Revenue / Low Profit
+PROD-000786,Braun Configurable upward-trending interface First Aid,285,602,29391.199996948242,9875.230016060174,33.599274670940765,Low Revenue / Low Profit
+PROD-000787,Johnson & Johnson Configurable intermediate portal First Aid,280,594,92827.67990112305,52099.789991378784,56.12527432213511,High Revenue / High Profit
+PROD-000788,Pure Vitamin Enterprise-wide needs-based frame First Aid,284,602,74606.36001586914,37745.64003384113,50.59305939307648,Low Revenue / Low Profit
+PROD-000789,Philips Inverse bi-directional artificial intelligence First Aid,280,610,98924.90994262695,57061.02000808716,57.68114425495114,High Revenue / High Profit
+PROD-000790,Braun Inverse stable frame First Aid,280,575,90355.35005187988,44189.32990694046,48.90615761166107,Low Revenue / High Profit
+PROD-000791,Pfizer Integrated local portal First Aid,292,652,118010.41032409668,42011.05999040604,35.599452518662886,High Revenue / High Profit
+PROD-000792,Pure Vitamin Universal interactive concept First Aid,273,587,73269.94995117188,28852.66993713379,39.37858556797379,Low Revenue / Low Profit
+PROD-000793,Philips Team-oriented leadingedge hardware First Aid,262,580,55740.3899230957,21348.210002183914,38.2993553357588,Low Revenue / Low Profit
+PROD-000794,GNC Organized 6thgeneration superstructure First Aid,266,595,132816.3199005127,50703.14992904663,38.17539137285711,High Revenue / High Profit
+PROD-000795,CVS Health Multi-channeled reciprocal Internet solution First Aid,286,607,151656.22007751465,72735.48010671139,47.96076288169043,High Revenue / High Profit
+PROD-000796,Pfizer Grass-roots scalable utilization First Aid,297,667,112353.27005004883,56527.47997999191,50.31226946470825,High Revenue / High Profit
+PROD-000797,Pure Vitamin Centralized asynchronous secured line First Aid,255,539,106700.78956604004,43457.64988708496,40.728517627498746,High Revenue / High Profit
+PROD-000798,Philips Sharable impactful hierarchy First Aid,245,519,31703.810012817383,14549.899964571,45.89322216695309,Low Revenue / Low Profit
+PROD-000799,Braun Profound value-added service-desk First Aid,288,597,147605.04008483887,75207.2098288536,50.95165435111619,High Revenue / High Profit
+PROD-000800,PetSafe Diverse 4thgeneration circuit Pet Food,312,660,11980.259987831116,4359.709995150566,36.39077949542763,Low Revenue / Low Profit
+PROD-000801,Blue Buffalo Robust systematic toolset Pet Food,258,554,47261.10990142822,28847.579998016357,61.03872731339428,Low Revenue / Low Profit
+PROD-000802,Hill's Organic 5thgeneration capacity Pet Food,265,555,44233.17003631592,19706.39998281002,44.551181763890874,Low Revenue / Low Profit
+PROD-000803,Purina Cloned disintermediate time-frame Pet Food,276,581,52906.74984741211,30497.75,57.644346114547375,Low Revenue / Low Profit
+PROD-000804,Kong Stand-alone high-level hierarchy Pet Food,280,609,66220.90992736816,29625.53003384918,44.73742518238241,Low Revenue / Low Profit
+PROD-000805,Royal Canin Networked non-volatile alliance Pet Food,279,599,71733.53987121582,46257.09997177124,64.48461912630721,Low Revenue / High Profit
+PROD-000806,Royal Canin Robust coherent service-desk Pet Food,277,616,131856.40019226074,70679.20997238159,53.603169712902634,High Revenue / High Profit
+PROD-000807,Royal Canin Organized holistic hub Pet Food,263,557,10774.270009994507,4744.36001265049,44.03416666047437,Low Revenue / Low Profit
+PROD-000808,Iams Organic well-modulated archive Pet Food,301,616,11170.889989852905,4006.50000410527,35.865539878600366,Low Revenue / Low Profit
+PROD-000809,Petmate Re-engineered client-driven moderator Pet Food,302,642,48829.51003265381,19316.940021038055,39.559971025964046,Low Revenue / Low Profit
+PROD-000810,PetSafe Multi-lateral hybrid functionalities Pet Food,258,564,124293.69961547852,71050.01000213623,57.163002004076034,High Revenue / High Profit
+PROD-000811,Blue Buffalo Streamlined even-keeled encryption Pet Food,277,599,83478.5297088623,34246.77995681763,41.02465637123206,Low Revenue / Low Profit
+PROD-000812,Kong Customizable 4thgeneration support Pet Food,278,599,44447.45008850098,16460.37996196747,37.03335046035845,Low Revenue / Low Profit
+PROD-000813,Purina Enterprise-wide modular model Pet Toys,250,541,52783.269874572754,29148.12001132965,55.22227039096559,Low Revenue / Low Profit
+PROD-000814,Petmate Networked next generation capability Pet Toys,303,675,30728.480003356934,14283.559995945543,46.48313224209312,Low Revenue / Low Profit
+PROD-000815,Blue Buffalo Fundamental zero-defect firmware Pet Toys,259,517,91013.2703704834,38318.21008300781,42.101783538848444,Low Revenue / Low Profit
+PROD-000816,Royal Canin Triple-buffered local data-warehouse Pet Toys,263,573,44150.18002319336,24711.85004234314,55.97225204826185,Low Revenue / Low Profit
+PROD-000817,Blue Buffalo Seamless executive solution Pet Toys,295,610,15354.139936447144,7253.479997634888,47.241200273398704,Low Revenue / Low Profit
+PROD-000818,Kong Pre-emptive dedicated capability Pet Toys,284,621,132367.63012695312,63944.85003852844,48.30852526195359,High Revenue / High Profit
+PROD-000819,Kong Devolved asynchronous knowledge user Pet Toys,264,575,78884.32001495361,47974.92000198364,60.816801099241694,Low Revenue / High Profit
+PROD-000820,Hill's Enhanced transitional intranet Pet Toys,282,585,86384.0799407959,44408.96996307373,51.40874336279302,Low Revenue / High Profit
+PROD-000821,Iams Cross-group systemic functionalities Pet Toys,278,604,134303.21028137207,53985.88002586365,40.19701384111406,High Revenue / High Profit
+PROD-000822,Hill's Synchronized grid-enabled strategy Pet Toys,250,526,70584.28999328613,33363.22992812842,47.26721757958022,Low Revenue / Low Profit
+PROD-000823,Nylabone Cloned neutral moratorium Pet Toys,298,642,62970.1801071167,39667.870056152344,62.99469048472549,Low Revenue / Low Profit
+PROD-000824,Royal Canin Implemented exuding complexity Pet Beds,284,587,75007.4500656128,43347.339990615845,57.79071272613287,Low Revenue / High Profit
+PROD-000825,Iams Universal tertiary standardization Pet Beds,283,560,116954.15003967285,53268.65005302429,45.546609534552346,High Revenue / High Profit
+PROD-000826,Hill's Sharable context-sensitive utilization Pet Beds,247,529,106334.4497680664,65761.93004608154,61.84442594993396,High Revenue / High Profit
+PROD-000827,Arm & Hammer Multi-lateral multimedia definition Pet Beds,274,595,23021.460025787354,8814.870008528233,38.289795689127914,Low Revenue / Low Profit
+PROD-000828,PetSafe Decentralized dedicated utilization Pet Beds,297,621,126539.85981750488,50657.530062794685,40.03286406026742,High Revenue / High Profit
+PROD-000829,Blue Buffalo Devolved disintermediate utilization Collars & Leashes,304,617,69161.1001739502,26008.05999481678,37.60504088194482,Low Revenue / Low Profit
+PROD-000830,Royal Canin Proactive 4thgeneration hierarchy Collars & Leashes,272,569,112490.0200958252,54929.37992286682,48.83044724863144,High Revenue / High Profit
+PROD-000831,Blue Buffalo Reactive object-oriented hub Collars & Leashes,305,676,50163.040046691895,29113.380046844482,58.0375113225707,Low Revenue / Low Profit
+PROD-000832,Arm & Hammer Persistent neutral capacity Collars & Leashes,306,664,63193.25997924805,31424.329958558083,49.72734429095362,Low Revenue / Low Profit
+PROD-000833,Royal Canin Seamless background architecture Collars & Leashes,279,611,83287.39009094238,34259.86994457245,41.1345221733611,Low Revenue / Low Profit
+PROD-000834,Nylabone Integrated hybrid structure Collars & Leashes,286,615,61586.02991485596,25591.43007540703,41.5539532435972,Low Revenue / Low Profit
+PROD-000835,Petmate Up-sized mission-critical moderator Collars & Leashes,258,571,78450.99035644531,30703.110049396753,39.13667617183149,Low Revenue / Low Profit
+PROD-000836,Petmate Open-source zero administration installation Collars & Leashes,279,609,22025.550052642822,8562.400008052588,38.87485210397819,Low Revenue / Low Profit
+PROD-000837,Blue Buffalo Re-engineered asynchronous capacity Collars & Leashes,266,541,105512.64010620117,42967.17995262146,40.72230579139513,High Revenue / High Profit
+PROD-000838,PetSafe Intuitive secondary archive Grooming,280,599,121054.40997314453,63957.280111312866,52.83349869327483,High Revenue / High Profit
+PROD-000839,Arm & Hammer Organized maximized software Grooming,333,740,107675.7398071289,41534.119953751564,38.57333140050709,High Revenue / High Profit
+PROD-000840,Blue Buffalo Programmable grid-enabled capacity Grooming,263,600,68187.55996704102,30816.949920654297,45.194387268806665,Low Revenue / Low Profit
+PROD-000841,PetSafe Vision-oriented neutral productivity Grooming,297,648,104139.8401184082,63485.03014373779,60.96132860541612,High Revenue / High Profit
+PROD-000842,Royal Canin Reverse-engineered contextually-based throughput Grooming,253,573,51041.959968566895,21270.720014810562,41.673007909393924,Low Revenue / Low Profit
+PROD-000843,Kong De-engineered intermediate middleware Grooming,262,552,32311.49006652832,12058.689974188805,37.3201296175458,Low Revenue / Low Profit
+PROD-000844,Petmate Centralized bottom-line model Grooming,262,549,125807.23023986816,59400.94985574484,47.21584740597902,High Revenue / High Profit
+PROD-000845,Petmate Distributed exuding concept Grooming,272,632,47282.47994995117,29649.609996795654,62.707391888454175,Low Revenue / Low Profit
+PROD-000846,Petmate Diverse fresh-thinking strategy Grooming,247,554,104238.09982299805,45810.88000059128,43.94830688431642,High Revenue / High Profit
+PROD-000847,Nylabone Face-to-face grid-enabled model Health Supplies,250,560,95490.47998046875,40887.399908304214,42.81829970554883,High Revenue / Low Profit
+PROD-000848,PetSafe Horizontal attitude-oriented extranet Health Supplies,278,603,107096.97984313965,44707.4300365448,41.74480933264958,High Revenue / High Profit
+PROD-000849,Iams Exclusive scalable neural-net Health Supplies,283,592,18440.14001274109,8198.129994153976,44.458068043352895,Low Revenue / Low Profit
+PROD-000850,Kong Grass-roots clear-thinking product Health Supplies,294,635,62420.06996154785,32348.10995531082,51.8232516804899,Low Revenue / Low Profit
+PROD-000851,Kong Innovative reciprocal monitoring Health Supplies,259,562,49867.01006317139,30389.050106048584,60.940188849405295,Low Revenue / Low Profit
+PROD-000852,Royal Canin Cross-group motivating project Health Supplies,268,569,125641.16000366211,80195.74989700317,63.82920206615864,High Revenue / High Profit
+PROD-000853,Kong Down-sized optimizing paradigm Health Supplies,261,561,69607.05986022949,38784.8099899292,55.719649799616356,Low Revenue / Low Profit
+PROD-000854,Purina Distributed composite protocol Health Supplies,270,583,69882.47994232178,29627.010023117065,42.395476015690946,Low Revenue / Low Profit
+PROD-000855,Petmate Secured uniform portal Health Supplies,256,528,12545.620027542114,6578.420007228851,52.43598955481571,Low Revenue / Low Profit
+PROD-000856,Hill's Mandatory non-volatile analyzer Health Supplies,258,559,43247.07989501953,24822.21995639801,57.39629130256403,Low Revenue / Low Profit
+PROD-000857,Nylabone Assimilated attitude-oriented analyzer Health Supplies,268,535,98695.57987976074,38669.49007606506,39.180569305307785,High Revenue / Low Profit
+PROD-000858,Royal Canin Stand-alone zero administration orchestration Aquariums,311,667,139642.40956115723,79132.10995101929,56.6676772476938,High Revenue / High Profit
+PROD-000859,Purina Fundamental solution-oriented database Aquariums,286,582,36142.81002044678,16499.1500364244,45.649881752665245,Low Revenue / Low Profit
+PROD-000860,Blue Buffalo Visionary object-oriented instruction set Aquariums,265,596,83325.24995422363,45098.72004699707,54.1237140863939,Low Revenue / High Profit
+PROD-000861,Blue Buffalo Secured scalable algorithm Aquariums,259,580,22904.720012664795,8694.560013771057,37.95968695082734,Low Revenue / Low Profit
+PROD-000862,Kong Proactive responsive moratorium Aquariums,292,619,66926.37005615234,31759.460079193115,47.45432936605765,Low Revenue / Low Profit
+PROD-000863,Petmate Implemented secondary framework Aquariums,288,629,17448.949989318848,7075.959990024567,40.55235412076959,Low Revenue / Low Profit
+PROD-000864,Petmate Polarized dynamic workforce Aquariums,270,567,93829.51000976562,39468.72010064125,42.064293095566,High Revenue / Low Profit
+PROD-000865,Purina Synergized impactful framework Bird Cages,268,627,82155.55016326904,41530.76998111606,50.551386849191914,Low Revenue / High Profit
+PROD-000866,Iams Persevering asynchronous solution Bird Cages,284,642,115177.2699584961,66655.50992202759,57.87210440571023,High Revenue / High Profit
+PROD-000867,Purina Centralized cohesive intranet Bird Cages,290,609,44064.940017700195,25755.729983329773,58.44948381408008,Low Revenue / Low Profit
+PROD-000868,Iams Operative mission-critical Local Area Network Bird Cages,285,637,15381.650032043457,5716.1600051522255,37.16220297070972,Low Revenue / Low Profit
+PROD-000869,Kong Expanded global portal Bird Cages,269,594,7419.170001983643,2714.7400093860924,36.59088562009308,Low Revenue / Low Profit
+PROD-000870,PetSafe Digitized foreground structure Bird Cages,301,630,45335.90998458862,19989.740032672882,44.092508652562934,Low Revenue / Low Profit
+PROD-000871,PetSafe Intuitive upward-trending hardware Bird Cages,268,592,112534.7400970459,72590.81002044678,64.50524518726137,High Revenue / High Profit
+PROD-000872,Hill's Open-architected clear-thinking task-force Bird Cages,291,627,108225.00016784668,61199.13987159729,56.548061701717025,High Revenue / High Profit
+PROD-000873,Nylabone Multi-layered multimedia open architecture Bird Cages,286,648,58913.52997589111,33567.08006668091,56.97686096965738,Low Revenue / Low Profit
+PROD-000874,Graco Customer-focused foreground encoding Diapers,289,589,66045.25995635986,25722.27995325625,38.946443651296896,Low Revenue / Low Profit
+PROD-000875,VTech Persistent bottom-line flexibility Diapers,282,612,87832.43984985352,29473.27001653239,33.55624649265797,Low Revenue / Low Profit
+PROD-000876,VTech Organized dynamic circuit Diapers,265,567,173144.2705078125,108094.40978240967,62.43025510770933,High Revenue / High Profit
+PROD-000877,Gerber Cross-platform actuating frame Diapers,291,638,103196.12013244629,52651.00995635986,51.02033864139981,High Revenue / High Profit
+PROD-000878,Graco Networked reciprocal instruction set Diapers,314,720,161558.26037597656,104650.4599685669,64.77567889442825,High Revenue / High Profit
+PROD-000879,Huggies Fully-configurable cohesive Graphic Interface Diapers,270,591,135793.73991394043,58465.36992454529,43.0545398938109,High Revenue / High Profit
+PROD-000880,Baby Einstein Re-engineered uniform functionalities Diapers,296,621,153769.39979553223,53182.07003900595,34.58560032732284,High Revenue / High Profit
+PROD-000881,Graco Ergonomic well-modulated complexity Diapers,262,569,59249.40000152588,35498.65996551514,59.9139568748391,Low Revenue / Low Profit
+PROD-000882,Britax Proactive multimedia Local Area Network Diapers,276,606,126733.6402130127,80419.99015045166,63.45591432178742,High Revenue / High Profit
+PROD-000883,Gerber Proactive fault-tolerant methodology Diapers,298,670,200082.60995483398,96534.35026693344,48.24724661914636,High Revenue / High Profit
+PROD-000884,Baby Einstein Ameliorated background infrastructure Diapers,275,597,91281.2398071289,52382.99987602234,57.38638080147036,High Revenue / High Profit
+PROD-000885,Pampers Profit-focused logistical encoding Diapers,250,544,68442.4698638916,42405.8500289917,61.95838653006279,Low Revenue / High Profit
+PROD-000886,Britax Extended optimal help-desk Diapers,279,608,85585.70999145508,31937.36993741989,37.31624115825941,Low Revenue / Low Profit
+PROD-000887,Pampers Business-focused actuating forecast Baby Food,263,542,43742.1198348999,18342.729945719242,41.9337929093331,Low Revenue / Low Profit
+PROD-000888,VTech Proactive radical projection Baby Food,285,595,167075.13023376465,97565.68993377686,58.39629740061669,High Revenue / High Profit
+PROD-000889,Chicco Synergistic methodical forecast Baby Food,267,536,108166.91993713379,60324.36994743347,55.769702957700716,High Revenue / High Profit
+PROD-000890,Pampers Public-key 24/7 benchmark Baby Food,284,646,135629.02011108398,54744.009905815125,40.36305051896581,High Revenue / High Profit
+PROD-000891,Britax Optional client-driven firmware Baby Food,261,570,119123.33015441895,61982.74004983902,52.032410418254024,High Revenue / High Profit
+PROD-000892,Pampers Upgradable high-level task-force Baby Food,290,654,49599.300064086914,16589.21996334195,33.44647997432853,Low Revenue / Low Profit
+PROD-000893,Huggies Open-architected high-level analyzer Baby Food,294,582,75012.26000976562,47269.00005340576,63.01503253901689,Low Revenue / High Profit
+PROD-000894,Baby Einstein Open-architected actuating open system Baby Food,302,658,114103.54020690918,64557.160175323486,56.57770132132538,High Revenue / High Profit
+PROD-000895,VTech Realigned content-based hierarchy Baby Food,276,604,12924.320032119751,5650.469997644424,43.71966945728499,Low Revenue / Low Profit
+PROD-000896,Britax Reactive executive archive Baby Gear,282,612,14263.060001373291,7473.889972686768,52.40032624112329,Low Revenue / Low Profit
+PROD-000897,Evenflo Networked motivating knowledge user Baby Gear,288,610,102764.80995178223,53930.15025520325,52.479200108001514,High Revenue / High Profit
+PROD-000898,Baby Einstein Virtual neutral focus group Baby Gear,283,622,121620.96011352539,78848.66994476318,64.83148124399199,High Revenue / High Profit
+PROD-000899,Huggies Secured systemic pricing structure Baby Gear,294,615,187279.60968017578,90169.42002487183,48.146949995708255,High Revenue / High Profit
+PROD-000900,Gerber Decentralized clear-thinking attitude Baby Gear,308,676,74393.61985015869,28875.15001744032,38.81401399152205,Low Revenue / Low Profit
+PROD-000901,VTech Object-based holistic utilization Toys,294,664,113902.52993774414,37029.81000673771,32.510085620553944,High Revenue / Low Profit
+PROD-000902,Graco Mandatory next generation hierarchy Toys,256,561,12327.570013046265,4109.55999481678,33.33633465855504,Low Revenue / Low Profit
+PROD-000903,Huggies Versatile client-server customer loyalty Toys,279,600,32087.290073394775,17019.87996864319,53.042434963229404,Low Revenue / Low Profit
+PROD-000904,Gerber Robust multimedia initiative Toys,291,596,63641.819969177246,25206.709939956665,39.607148180496225,Low Revenue / Low Profit
+PROD-000905,Chicco Profit-focused 6thgeneration analyzer Toys,251,530,65075.590003967285,34289.69996833801,52.69210769544704,Low Revenue / Low Profit
+PROD-000906,Chicco Automated client-driven structure Toys,295,611,65530.61988067627,28235.160048484802,43.08697231904381,Low Revenue / Low Profit
+PROD-000907,Graco Managed methodical model Toys,278,569,154371.3204498291,99932.62017059326,64.7352240554757,High Revenue / High Profit
+PROD-000908,Evenflo Persevering coherent portal Toys,292,621,151421.0103149414,56972.62002706528,37.62530702216793,High Revenue / High Profit
+PROD-000909,Britax Profound client-driven Graphic Interface Toys,291,609,83696.9100189209,46012.41987800598,54.975052086874186,Low Revenue / High Profit
+PROD-000910,Evenflo Seamless foreground complexity Toys,250,538,46618.42007446289,26212.430030822754,56.22762416434113,Low Revenue / Low Profit
+PROD-000911,Gerber Object-based reciprocal support Clothing,260,603,146242.0697631836,73312.80979204178,50.13113525455468,High Revenue / High Profit
+PROD-000912,Evenflo Innovative optimizing Graphical User Interface Clothing,301,632,195465.55017089844,69211.01023244858,35.408290704902406,High Revenue / High Profit
+PROD-000913,Evenflo Profit-focused multimedia monitoring Clothing,292,581,183485.07009887695,87581.6201505661,47.73228693940595,High Revenue / High Profit
+PROD-000914,Baby Einstein Pre-emptive tertiary open system Clothing,274,607,24326.24997329712,11999.649980545044,49.32798928612934,Low Revenue / Low Profit
+PROD-000915,Huggies Innovative methodical adapter Clothing,289,615,47260.419929504395,27688.57995033264,58.58724910111691,Low Revenue / Low Profit
+PROD-000916,Chicco Multi-layered full-range service-desk Clothing,261,561,141031.0998687744,65305.1901550293,46.30552425372417,High Revenue / High Profit
+PROD-000917,Gerber Customizable intangible paradigm Furniture,282,622,159190.5402984619,69304.32005310059,43.53545124174077,High Revenue / High Profit
+PROD-000918,Baby Einstein Integrated uniform solution Furniture,301,600,135746.8804473877,78676.40007019043,57.95816435036498,High Revenue / High Profit
+PROD-000919,Fisher-Price Self-enabling 4thgeneration policy Furniture,278,609,178864.07983398438,100529.90045166016,56.20463345405552,High Revenue / High Profit
+PROD-000920,Fisher-Price Phased empowering projection Furniture,292,617,176883.18006896973,75362.72985649109,42.605933377671015,High Revenue / High Profit
+PROD-000921,Fisher-Price Vision-oriented optimal orchestration Furniture,288,604,37306.89010620117,23072.470001220703,61.845063835502025,Low Revenue / Low Profit
+PROD-000922,Pampers Focused uniform application Furniture,267,583,87755.99003601074,52866.879875183105,60.24304421098678,Low Revenue / High Profit
+PROD-000923,Chicco Reduced mission-critical concept Furniture,262,545,93883.70971679688,52711.88010787964,56.145928049590985,High Revenue / High Profit
+PROD-000924,Baby Einstein Progressive responsive success Furniture,261,549,120221.27996826172,74931.02003479004,62.32758464605579,High Revenue / High Profit
+PROD-000925,Chicco Secured zero-defect implementation Furniture,297,625,165536.02017211914,84867.47994709015,51.268285814076975,High Revenue / High Profit
+PROD-000926,Huggies Digitized systemic encryption Strollers,302,685,100653.50028991699,63743.38998413086,63.329531313394746,High Revenue / High Profit
+PROD-000927,Graco Automated object-oriented standardization Strollers,304,661,98685.32986450195,56674.97003173828,57.42998489193357,High Revenue / High Profit
+PROD-000928,Evenflo Customizable content-based adapter Strollers,307,711,188027.4702758789,59594.050100803375,31.694331691728557,High Revenue / High Profit
+PROD-000929,VTech Organic foreground instruction set Strollers,275,599,161064.09017944336,91679.35004425049,56.921036801008505,High Revenue / High Profit
+PROD-000930,Britax Distributed incremental solution Strollers,288,632,47574.91980743408,15199.47995659709,31.948514087084202,Low Revenue / Low Profit
+PROD-000931,Gerber Expanded incremental middleware Strollers,291,646,148944.8002319336,49325.65995597839,33.11673846899627,High Revenue / High Profit
+PROD-000932,Huggies Vision-oriented reciprocal leverage Strollers,253,551,52800.81008911133,26472.830008089542,50.137166387052865,Low Revenue / Low Profit
+PROD-000933,Evenflo User-centric upward-trending approach Strollers,288,664,25439.750022888184,10176.70996761322,40.00318383025469,Low Revenue / Low Profit
+PROD-000934,Baby Einstein Triple-buffered client-driven model Strollers,289,619,45650.62001800537,17087.44995045662,37.43092633510135,Low Revenue / Low Profit
+PROD-000935,Chicco Expanded next generation Graphic Interface Strollers,293,633,190226.18969726562,64510.02993923426,33.91227571865807,High Revenue / High Profit
+PROD-000936,Gerber Switchable mission-critical moderator Strollers,263,587,177647.8992614746,69660.87016151473,39.21288709357772,High Revenue / High Profit
+PROD-000937,VTech Multi-tiered foreground conglomeration Strollers,283,617,98723.21022033691,40762.4198974967,41.289601307048734,High Revenue / Low Profit
+PROD-000938,Pampers Persevering national Graphical User Interface Strollers,250,524,108960.61987304688,46827.819959163666,42.97682962314651,High Revenue / High Profit
+PROD-000939,Chicco Quality-focused heuristic service-desk Strollers,321,652,121776.52040100098,48227.97991514206,39.60367709335998,High Revenue / High Profit
+PROD-000940,Gerber Visionary uniform software Car Seats,274,578,12159.050020217896,6579.200008392334,54.10949044088588,Low Revenue / Low Profit
+PROD-000941,Baby Einstein Stand-alone system-worthy firmware Car Seats,251,541,155079.87030029297,88175.25004577637,56.85795962753639,High Revenue / High Profit
+PROD-000942,Baby Einstein Seamless mission-critical core Car Seats,282,606,51040.109954833984,27189.260078430176,53.27037912435981,Low Revenue / Low Profit
+PROD-000943,Graco Fully-configurable even-keeled open architecture Car Seats,269,576,136910.75997924805,85729.44956588745,62.61702847817199,High Revenue / High Profit
+PROD-000944,Graco Innovative directional framework Car Seats,281,608,15867.229974746704,6749.820000126958,42.53937209500052,Low Revenue / Low Profit
+PROD-000945,Chicco Visionary executive strategy Car Seats,266,570,30874.70994567871,16704.369992733,54.10373092451021,Low Revenue / Low Profit
+PROD-000946,Gerber Expanded system-worthy strategy Car Seats,260,565,164984.10983276367,53806.75008201599,32.61329235679561,High Revenue / High Profit
+PROD-000947,Britax Pre-emptive foreground matrices Car Seats,291,657,158225.6199645996,82883.24002838135,52.38294534533985,High Revenue / High Profit
+PROD-000948,Huggies Monitored next generation utilization Car Seats,282,626,152446.1298828125,53501.789726138115,35.09553818602394,High Revenue / High Profit
+PROD-000949,Pandora Up-sized even-keeled forecast Rings,281,597,318915.76013183594,135395.5699725151,42.45496362943751,High Revenue / High Profit
+PROD-000950,Mikimoto Decentralized object-oriented service-desk Rings,274,618,162838.0503540039,59010.150087594986,36.23855109988673,High Revenue / High Profit
+PROD-000951,Pandora Quality-focused homogeneous infrastructure Rings,288,653,393498.8708496094,183356.61056232452,46.59647692671557,High Revenue / High Profit
+PROD-000952,Mikimoto Monitored zero administration website Rings,291,607,500943.18084716797,257479.7995724678,51.39900280447613,High Revenue / High Profit
+PROD-000953,Mikimoto Digitized explicit analyzer Rings,271,594,140265.28038024902,74451.95001411438,53.07938629736492,High Revenue / High Profit
+PROD-000954,Tiffany Horizontal transitional artificial intelligence Rings,284,579,118102.2398071289,32932.419979572296,27.88467012425316,High Revenue / Low Profit
+PROD-000955,Tiffany Monitored leadingedge projection Rings,257,542,466811.8201904297,167944.6000099182,35.97693818922739,High Revenue / High Profit
+PROD-000956,Bvlgari Function-based value-added matrices Rings,286,600,330886.18045043945,128276.2699611187,38.76749091983673,High Revenue / High Profit
+PROD-000957,Mikimoto Extended dedicated monitoring Rings,293,636,183889.77026367188,78681.08996105194,42.787094599245194,High Revenue / High Profit
+PROD-000958,Mikimoto Future-proofed next generation standardization Rings,286,601,518176.81915283203,134993.10000038147,26.05155132587403,High Revenue / High Profit
+PROD-000959,David Yurman Future-proofed client-driven benchmark Rings,285,622,428319.90899658203,158587.26958096027,37.02542568065072,High Revenue / High Profit
+PROD-000960,Bvlgari Seamless user-facing parallelism Rings,271,593,130013.36990356445,43864.55002450943,33.738491708233795,High Revenue / High Profit
+PROD-000961,David Yurman Front-line dynamic application Rings,270,580,194144.91046142578,52849.84996509552,27.221857034256963,High Revenue / High Profit
+PROD-000962,Messika Synchronized multi-tasking definition Rings,291,634,68774.91017913818,35086.81006193161,51.01687515191355,Low Revenue / Low Profit
+PROD-000963,David Yurman Sharable discrete application Rings,279,574,273356.22982788086,111490.43991088867,40.78576880471639,High Revenue / High Profit
+PROD-000964,Pandora Cross-platform incremental groupware Necklaces,264,547,408740.3101196289,175704.6298904419,42.98686122712418,High Revenue / High Profit
+PROD-000965,Messika Universal methodical attitude Necklaces,297,595,422013.3591308594,141755.39999389648,33.59026365559685,High Revenue / High Profit
+PROD-000966,David Yurman Synergized zero administration challenge Necklaces,256,555,441662.55017089844,164395.88010025024,37.222055625191295,High Revenue / High Profit
+PROD-000967,Van Cleef Adaptive neutral complexity Necklaces,296,635,257162.95922851562,135985.6798171997,52.87918611029922,High Revenue / High Profit
+PROD-000968,Pandora Open-source solution-oriented leverage Necklaces,276,595,424304.4104614258,237088.9202194214,55.87708125908711,High Revenue / High Profit
+PROD-000969,Van Cleef Polarized solution-oriented customer loyalty Earrings,302,618,307771.10958862305,164674.99991607666,53.505671840409796,High Revenue / High Profit
+PROD-000970,Pandora Versatile executive Graphic Interface Earrings,285,619,149681.56970214844,66673.47023773193,44.5435402437358,High Revenue / High Profit
+PROD-000971,Tous Horizontal secondary approach Earrings,260,550,134130.22959899902,72727.79010772705,54.22177411099413,High Revenue / High Profit
+PROD-000972,Cartier Visionary background projection Earrings,250,526,448008.2098388672,207960.23025512695,46.41884360331766,High Revenue / High Profit
+PROD-000973,Swarovski Re-engineered discrete monitoring Earrings,278,612,411063.86907958984,106347.31978988647,25.871239918995553,High Revenue / High Profit
+PROD-000974,Cartier User-centric uniform alliance Earrings,280,615,186597.28036499023,80782.44010925293,43.29239952010013,High Revenue / High Profit
+PROD-000975,David Yurman Enhanced intangible conglomeration Earrings,273,595,443920.0298461914,218193.07931518555,49.15143824233042,High Revenue / High Profit
+PROD-000976,Pandora Automated hybrid toolset Earrings,275,568,457161.3010253906,124111.92996406555,27.148389350911483,High Revenue / High Profit
+PROD-000977,Tiffany Proactive contextually-based synergy Earrings,256,530,370271.06036376953,157522.92013931274,42.54259568235113,High Revenue / High Profit
+PROD-000978,Messika Implemented 5thgeneration access Earrings,283,611,368566.39001464844,190753.83005809784,51.75562265743125,High Revenue / High Profit
+PROD-000979,Swarovski Innovative non-volatile portal Bracelets,261,587,381525.41931152344,188059.749874115,49.29153874294291,High Revenue / High Profit
+PROD-000980,Van Cleef Customer-focused full-range forecast Bracelets,271,575,312506.2095031738,71969.18019199371,23.02968005224958,High Revenue / High Profit
+PROD-000981,Van Cleef Persevering secondary moratorium Bracelets,273,564,155584.26040649414,54620.150124549866,35.10647541200125,High Revenue / High Profit
+PROD-000982,Pandora Progressive modular challenge Bracelets,269,569,372563.28021240234,110135.71004486084,29.5616116494549,High Revenue / High Profit
+PROD-000983,Tous Profit-focused maximized flexibility Bracelets,301,642,307978.8698425293,114500.95965147018,37.17818683795253,High Revenue / High Profit
+PROD-000984,David Yurman Ergonomic bifurcated groupware Bracelets,278,595,502352.4792480469,138763.11991024017,27.622660510793068,High Revenue / High Profit
+PROD-000985,David Yurman Diverse upward-trending knowledgebase Bracelets,291,614,398738.62030029297,155362.67991495132,38.96353952319606,High Revenue / High Profit
+PROD-000986,Cartier Stand-alone eco-centric structure Bracelets,271,611,387362.5397338867,116750.37027907372,30.13981949810629,High Revenue / High Profit
+PROD-000987,Tous Enterprise-wide 24/7 support Bracelets,270,566,159260.81983947754,44144.42003107071,27.71831771025971,High Revenue / High Profit
+PROD-000988,Swarovski Mandatory explicit open system Bracelets,286,619,215947.18057250977,96252.17040872574,44.57208941258051,High Revenue / High Profit
+PROD-000989,Mikimoto Synergistic web-enabled core Bracelets,291,604,465962.8405151367,145029.89995896816,31.12477806140786,High Revenue / High Profit
+PROD-000990,Tiffany Enhanced reciprocal productivity Watches,276,542,291931.6106262207,73123.07998466492,25.04801718039682,High Revenue / High Profit
+PROD-000991,David Yurman Open-architected interactive migration Watches,282,585,218488.41900634766,108082.97953557968,49.468516467428685,High Revenue / High Profit
+PROD-000992,David Yurman Inverse background initiative Watches,276,546,371764.8093261719,159070.2501707077,42.787871842691196,High Revenue / High Profit
+PROD-000993,Tous Synchronized bandwidth-monitored contingency Watches,272,557,421877.20959472656,229394.80968475342,54.3747812082857,High Revenue / High Profit
+PROD-000994,Cartier Devolved mission-critical Graphic Interface Watches,292,631,547677.3889770508,219414.19931602478,40.062672612036366,High Revenue / High Profit
+PROD-000995,Bvlgari Fully-configurable 24hour firmware Pendants,276,607,396793.5203857422,112634.11992931366,28.386078436920187,High Revenue / High Profit
+PROD-000996,Messika Networked disintermediate knowledge user Pendants,302,672,576195.0395507812,303341.9906234741,52.64571365625926,High Revenue / High Profit
+PROD-000997,Tiffany Versatile encompassing groupware Pendants,280,657,433173.1204223633,113851.9997997284,26.283255915952857,High Revenue / High Profit
+PROD-000998,Tiffany Innovative optimal success Pendants,291,611,451672.3696899414,169220.9099521637,37.46541106074928,High Revenue / High Profit
+PROD-000999,Tous Re-engineered 24/7 firmware Pendants,247,526,84041.59001159668,21181.370050907135,25.20343802156096,Low Revenue / Low Profit
+PROD-001000,Van Cleef Streamlined high-level solution Pendants,269,590,183068.93978881836,81823.02973556519,44.69520052388638,High Revenue / High Profit
+PROD-001001,Bvlgari Front-line analyzing secured line Pendants,253,558,344028.7498779297,96343.32007980347,28.0044386156647,High Revenue / High Profit
+PROD-001002,Tous Decentralized maximized function Chains,241,517,303467.39025878906,111400.45013618469,36.709199641248205,High Revenue / High Profit
+PROD-001003,Tous Diverse impactful software Chains,268,565,463825.3294067383,254037.59982681274,54.770100665210066,High Revenue / High Profit
+PROD-001004,Mikimoto Profit-focused tertiary throughput Chains,252,535,50065.060050964355,18030.710052847862,36.01455792621296,Low Revenue / Low Profit
+PROD-001005,Cartier Integrated system-worthy capability Chains,284,616,188023.2700805664,79200.17994117737,42.12254148501978,High Revenue / High Profit
+PROD-001006,Cartier Sharable explicit hub Chains,257,531,175181.81994628906,52100.14001196623,29.74060894443281,High Revenue / High Profit
+PROD-001007,Van Cleef Seamless directional definition Chains,293,633,67268.96007537842,18657.449960440397,27.73560040103748,Low Revenue / Low Profit
+PROD-001008,Tous Devolved mission-critical collaboration Chains,276,571,236742.70065307617,74898.92999601364,31.637271091948417,High Revenue / High Profit
+PROD-001009,Pandora Persevering value-added portal Chains,269,576,55395.05995941162,22579.270065784454,40.760439797932264,Low Revenue / Low Profit
+PROD-001010,Mikimoto Multi-layered intangible standardization Chains,274,587,349366.8898925781,114137.9096364975,32.6699274998819,High Revenue / High Profit
+PROD-001011,Messika Reactive methodical system engine Chains,286,594,130683.25028991699,53710.959963321686,41.10011026215332,High Revenue / High Profit
+PROD-001012,Tiffany Public-key static data-warehouse Chains,263,573,76217.2600479126,33523.599952697754,43.984262792474766,Low Revenue / Low Profit
+PROD-001013,Pandora Virtual dynamic software Gemstones,272,582,237749.66012573242,49578.339910030365,20.85316962548387,High Revenue / High Profit
+PROD-001014,David Yurman Versatile radical toolset Gemstones,288,581,283350.72061157227,137665.840133667,48.58496206981046,High Revenue / High Profit
+PROD-001015,David Yurman Configurable multi-tasking knowledge user Gemstones,314,660,95559.34013366699,38753.660036325455,40.554549646447335,High Revenue / Low Profit
+PROD-001016,Mikimoto Progressive tertiary hierarchy Gemstones,287,654,415865.37060546875,165618.19943618774,39.824955656937746,High Revenue / High Profit
+PROD-001017,Pandora Compatible non-volatile budgetary management Gemstones,281,604,226291.44998168945,100070.8199903965,44.22209500115617,High Revenue / High Profit
+PROD-001018,Kraft Heinz Centralized neutral middleware Beverages,267,555,27772.179985046387,16379.089990615845,58.97660896420439,Low Revenue / Low Profit
+PROD-001019,Mars Exclusive object-oriented monitoring Beverages,253,554,34418.26996231079,13869.330024003983,40.29641826620392,Low Revenue / Low Profit
+PROD-001020,Coca-Cola Distributed composite Graphic Interface Beverages,252,560,8192.189997673035,4309.100002288818,52.600098429269885,Low Revenue / Low Profit
+PROD-001021,Kraft Heinz Programmable leadingedge budgetary management Beverages,286,609,20985.7799949646,13080.700037956238,62.33125497882311,Low Revenue / Low Profit
+PROD-001022,Unilever Synergized demand-driven structure Beverages,263,554,34479.759910583496,17522.31008529663,50.819118609692495,Low Revenue / Low Profit
+PROD-001023,Mondelez Reduced mobile array Beverages,298,639,5998.939999103546,1625.8699991852045,27.102621453592917,Low Revenue / Low Profit
+PROD-001024,Coca-Cola Profound local workforce Beverages,274,623,40651.13000488281,19998.460019379854,49.19533606317398,Low Revenue / Low Profit
+PROD-001025,Nestle Centralized logistical capacity Beverages,297,598,21499.599988937378,12613.440008163452,58.66825436126114,Low Revenue / Low Profit
+PROD-001026,Kraft Heinz Profound intangible knowledgebase Beverages,286,649,52299.63983917236,22392.900037884712,42.81654731609157,Low Revenue / Low Profit
+PROD-001027,Mars Re-contextualized analyzing open architecture Beverages,288,588,12721.149991989136,4818.03998029232,37.87424865933013,Low Revenue / Low Profit
+PROD-001028,Coca-Cola Persistent systematic workforce Beverages,268,575,48015.030029296875,30283.189962387085,63.07023018398505,Low Revenue / Low Profit
+PROD-001029,P&G Integrated uniform adapter Beverages,311,649,43945.080154418945,21814.310010552406,49.63993678905338,Low Revenue / Low Profit
+PROD-001030,Coca-Cola Object-based eco-centric ability Beverages,273,613,5833.989996910095,1924.1600028276443,32.98188724777988,Low Revenue / Low Profit
+PROD-001031,P&G User-friendly didactic paradigm Beverages,277,610,28645.319942474365,11805.429990291595,41.212421484554206,Low Revenue / Low Profit
+PROD-001032,P&G Compatible 6thgeneration interface Snacks,294,614,49720.24003601074,31701.700035095215,63.760150820138264,Low Revenue / Low Profit
+PROD-001033,General Mills Monitored tangible architecture Snacks,271,613,54760.119956970215,35964.28999328613,65.67606137741554,Low Revenue / Low Profit
+PROD-001034,P&G Quality-focused analyzing architecture Snacks,268,553,25530.889965057373,16173.069927215576,63.34706682513107,Low Revenue / Low Profit
+PROD-001035,General Mills Phased 5thgeneration forecast Snacks,269,586,50846.23011016846,29271.38998413086,57.56845673850073,Low Revenue / Low Profit
+PROD-001036,Nestle Open-source contextually-based throughput Snacks,267,560,25593.51996231079,12289.01000560075,48.01609948024984,Low Revenue / Low Profit
+PROD-001037,PepsiCo Devolved zero administration project Pantry Staples,282,584,33825.2900390625,17194.16996574402,50.83229130005288,Low Revenue / Low Profit
+PROD-001038,Mondelez Upgradable secondary instruction set Pantry Staples,297,641,18599.56996154785,8494.240020437166,45.66901298254681,Low Revenue / Low Profit
+PROD-001039,Mars Multi-layered homogeneous knowledge user Pantry Staples,272,568,14730.77997970581,5929.60999327898,40.2531977359518,Low Revenue / Low Profit
+PROD-001040,Mars Multi-tiered homogeneous artificial intelligence Pantry Staples,294,600,6055.300001144409,2291.190001010895,37.83776197013981,Low Revenue / Low Profit
+PROD-001041,Mars Synergized stable moratorium Pantry Staples,276,569,17912.950010299683,10168.670007705688,56.76714333406196,Low Revenue / Low Profit
+PROD-001042,P&G Devolved solution-oriented hardware Pantry Staples,275,564,26895.770080566406,12685.909990310669,47.16693350779682,Low Revenue / Low Profit
+PROD-001043,General Mills Decentralized context-sensitive monitoring Dairy,248,551,36730.9700088501,24247.829929351807,66.01467351259562,Low Revenue / Low Profit
+PROD-001044,PepsiCo Object-based multi-tasking capacity Dairy,273,594,46137.179946899414,21182.31994700432,45.91160528533311,Low Revenue / Low Profit
+PROD-001045,Kraft Heinz Upgradable directional ability Dairy,284,619,53973.850036621094,29283.04004096985,54.25412495329015,Low Revenue / Low Profit
+PROD-001046,Unilever Versatile 3rdgeneration framework Dairy,278,596,36214.75999832153,17474.039962351322,48.25115495218304,Low Revenue / Low Profit
+PROD-001047,Kraft Heinz Persistent systematic success Dairy,290,602,31704.24998474121,20605.400077819824,64.99254859439003,Low Revenue / Low Profit
+PROD-001048,Unilever Quality-focused interactive monitoring Meat,266,561,47854.459869384766,24892.99000120163,52.018119249794516,Low Revenue / Low Profit
+PROD-001049,Unilever Multi-tiered discrete encryption Meat,256,528,16689.260005950928,9164.749967098236,54.91405828557012,Low Revenue / Low Profit
+PROD-001050,Coca-Cola Persevering grid-enabled collaboration Meat,300,606,40153.299991607666,18994.290036007762,47.30443086864021,Low Revenue / Low Profit
+PROD-001051,Mondelez Grass-roots content-based success Meat,272,640,38628.76005554199,23343.080032348633,60.42927600778542,Low Revenue / Low Profit
+PROD-001052,PepsiCo Virtual bifurcated alliance Meat,280,581,26501.379989624023,14550.849994659424,54.906008669572905,Low Revenue / Low Profit
+PROD-001053,Unilever Switchable intangible pricing structure Meat,273,592,51750.69997406006,34568.64999771118,66.79842014704855,Low Revenue / Low Profit
+PROD-001054,PepsiCo Visionary 3rdgeneration encoding Meat,262,569,18792.959978103638,9854.470013141632,52.43702974211318,Low Revenue / Low Profit
+PROD-001055,Coca-Cola Expanded asymmetric attitude Meat,273,616,20273.70002937317,10212.389986515045,50.37260081642234,Low Revenue / Low Profit
+PROD-001056,Mondelez Right-sized 5thgeneration knowledge user Meat,297,634,32030.959880828857,13974.150000095367,43.62700978080636,Low Revenue / Low Profit
+PROD-001057,Mondelez Right-sized systematic strategy Meat,295,619,45793.670013427734,26289.37999534607,57.408327368471305,Low Revenue / Low Profit
+PROD-001058,Unilever Business-focused dynamic support Meat,257,534,16803.8600025177,9938.780006408691,59.14581533599767,Low Revenue / Low Profit
+PROD-001059,Coca-Cola Balanced impactful intranet Meat,301,645,9074.009981155396,4503.200006008148,49.62745264067645,Low Revenue / Low Profit
+PROD-001060,Unilever Focused needs-based data-warehouse Produce,268,565,47520.10996246338,22621.939940452576,47.6049823081678,Low Revenue / Low Profit
+PROD-001061,Mars Versatile zero-defect approach Produce,274,575,10367.179991722107,5173.050013065338,49.898333174458905,Low Revenue / Low Profit
+PROD-001062,General Mills Devolved motivating frame Produce,291,593,17937.01999282837,8890.110003471375,49.56291517222952,Low Revenue / Low Profit
+PROD-001063,Nestle Focused upward-trending orchestration Produce,239,493,19102.159965515137,10426.569979667664,54.58319896017312,Low Revenue / Low Profit
+PROD-001064,Kellogg's Intuitive object-oriented policy Produce,277,628,45918.2699508667,27071.63000869751,58.95611929122025,Low Revenue / Low Profit
+PROD-001065,Mondelez Visionary systematic Graphic Interface Produce,284,607,53671.49004364014,31809.890003204346,59.267760178336424,Low Revenue / Low Profit
+PROD-001066,Mondelez Front-line exuding circuit Produce,273,573,30133.41999053955,12951.690016746521,42.98114857461493,Low Revenue / Low Profit
+PROD-001067,PepsiCo Switchable multi-state definition Produce,296,637,10781.41000366211,5150.420013666153,47.771302750908426,Low Revenue / Low Profit
+PROD-001068,Coca-Cola Open-source exuding focus group Produce,275,570,29866.259983062744,18545.909940719604,62.09652615103817,Low Revenue / Low Profit
+PROD-001069,Coca-Cola Centralized next generation parallelism Produce,287,612,39694.69003677368,17847.21995306015,44.96122765167394,Low Revenue / Low Profit
+PROD-001070,Kellogg's User-centric context-sensitive product Produce,296,642,46738.669921875,26469.919973373413,56.633875156521626,Low Revenue / Low Profit
+PROD-001071,P&G Synergistic interactive open architecture Produce,272,559,12597.98999786377,5533.449985980988,43.92327654585604,Low Revenue / Low Profit
+PROD-001072,PepsiCo Proactive actuating hardware Produce,290,662,44451.800022125244,27564.680015563965,62.01026730491013,Low Revenue / Low Profit
+PROD-001073,Unilever Stand-alone static implementation Produce,283,602,13477.810007095337,7967.839988708496,59.11820974263519,Low Revenue / Low Profit
+PROD-001074,PepsiCo Progressive foreground standardization Frozen Foods,279,603,42623.31994628906,23291.550008773804,54.645086394312294,Low Revenue / Low Profit
+PROD-001075,Kellogg's Operative incremental collaboration Frozen Foods,297,632,9513.82000541687,4939.359991550446,51.91773639545555,Low Revenue / Low Profit
+PROD-001076,Kraft Heinz Innovative homogeneous contingency Frozen Foods,252,516,43506.769958496094,26961.750032424927,61.971389873680515,Low Revenue / Low Profit
+PROD-001077,Kellogg's Versatile national leverage Frozen Foods,283,598,10316.269986152649,5207.849985599518,50.48190860252713,Low Revenue / Low Profit
+PROD-001078,Nestle Front-line directional framework Frozen Foods,250,557,32649.40998840332,19628.020053863525,60.11753370377952,Low Revenue / Low Profit
+PROD-001079,General Mills Triple-buffered client-server workforce Frozen Foods,302,662,27577.380046844482,16655.529963493347,60.39562110396757,Low Revenue / Low Profit
+PROD-001080,Mondelez Persistent analyzing open architecture Frozen Foods,274,604,55254.65018463135,29418.409960269928,53.24150974075379,Low Revenue / Low Profit
+PROD-001081,PepsiCo Open-source intangible open architecture Frozen Foods,299,658,28762.379955291748,15978.940023422241,55.55499944114468,Low Revenue / Low Profit
+PROD-001082,Kraft Heinz Progressive client-driven info-mediaries Frozen Foods,326,720,48377.9998626709,23895.54998254776,49.39342273425794,Low Revenue / Low Profit
+PROD-001083,Nestle Fully-configurable eco-centric database Frozen Foods,266,549,28135.569980621338,15704.76000404358,55.81816901118546,Low Revenue / Low Profit
+PROD-001084,P&G Managed secondary artificial intelligence Frozen Foods,275,602,37284.729946136475,19856.01001548767,53.255072637438246,Low Revenue / Low Profit
+PROD-001085,Unilever Organized holistic array Frozen Foods,289,659,38607.300022125244,24421.979972839355,63.25741494184649,Low Revenue / Low Profit
+PROD-001086,General Mills Public-key uniform core Frozen Foods,279,607,12687.239974975586,5392.389984965324,42.50246701095997,Low Revenue / Low Profit
+PROD-001087,General Mills Business-focused encompassing implementation Frozen Foods,297,620,25899.389987945557,11071.42000067234,42.74780219080584,Low Revenue / Low Profit
+PROD-001088,Mars Synergistic real-time portal Frozen Foods,272,571,29700.149951934814,16562.170011520386,55.76460064452113,Low Revenue / Low Profit
+PROD-001089,Coca-Cola Balanced asynchronous core Organic,264,544,41655.080070495605,27857.269981384277,66.87604473269431,Low Revenue / Low Profit
+PROD-001090,Nestle Virtual optimizing success Organic,296,641,36063.319957733154,18225.589987039566,50.537748627692295,Low Revenue / Low Profit
+PROD-001091,P&G Synchronized next generation data-warehouse Organic,264,595,17836.33993911743,11202.729975700378,62.80845741861716,Low Revenue / Low Profit
+PROD-001092,Kellogg's Polarized demand-driven groupware Organic,288,644,34746.54006576538,15908.539974868298,45.78452975392061,Low Revenue / Low Profit
+PROD-001093,Coca-Cola Innovative 24/7 data-warehouse Organic,291,634,50724.070068359375,28019.29006767273,55.238647115485676,Low Revenue / Low Profit
+PROD-001094,Unilever Ergonomic user-facing capability Organic,266,615,46227.58003997803,26115.919969558716,56.49423990391328,Low Revenue / Low Profit
+PROD-001095,Mondelez User-friendly web-enabled matrices Organic,267,570,46387.250076293945,21069.520011901855,45.42092919336334,Low Revenue / Low Profit
+PROD-001096,PaperMate Fully-configurable tangible portal Paper Products,267,603,19241.140005111694,9425.63997220993,48.98691018154781,Low Revenue / Low Profit
+PROD-001097,Avery Triple-buffered demand-driven infrastructure Paper Products,275,542,134691.96005249023,80743.2400932312,59.9465922552208,High Revenue / High Profit
+PROD-001098,Sharpie Front-line neutral Graphic Interface Paper Products,315,655,157812.50994873047,86363.07992172241,54.72511650044709,High Revenue / High Profit
+PROD-001099,PaperMate Vision-oriented executive implementation Paper Products,272,542,143048.12028503418,90780.47012329102,63.46149109992083,High Revenue / High Profit
+PROD-001100,3M Persistent national projection Paper Products,264,569,17970.03000831604,8743.549970149994,48.65629031283597,Low Revenue / Low Profit
+PROD-001101,Sharpie Multi-channeled fault-tolerant firmware Paper Products,275,577,74021.2000579834,28831.010094165802,38.949665868131646,Low Revenue / Low Profit
+PROD-001102,Mead Multi-lateral multimedia methodology Paper Products,279,576,54913.350036621094,31666.38995361328,57.66610474956513,Low Revenue / Low Profit
+PROD-001103,3M Persistent bandwidth-monitored website Paper Products,239,508,55988.9599609375,34996.44985580444,62.50598310849289,Low Revenue / Low Profit
+PROD-001104,Bic Up-sized methodical task-force Paper Products,293,606,80686.95999145508,36130.32007627189,44.77838808166545,Low Revenue / Low Profit
+PROD-001105,Five Star Intuitive demand-driven hub Paper Products,250,554,108341.8099975586,70062.44993591309,64.66797069154732,High Revenue / High Profit
+PROD-001106,Office Depot Intuitive incremental analyzer Paper Products,266,599,107624.08996582031,54689.79988408089,50.815574748599026,High Revenue / High Profit
+PROD-001107,Office Depot Re-contextualized directional support Paper Products,298,622,137855.46977233887,60811.749985694885,44.11268561640849,High Revenue / High Profit
+PROD-001108,3M Digitized 3rdgeneration firmware Paper Products,277,594,17303.989992141724,6440.890008926392,37.22199337754702,Low Revenue / Low Profit
+PROD-001109,Avery Reactive optimal paradigm Writing Instruments,260,560,121269.65005493164,54449.949957847595,44.899898641732165,High Revenue / High Profit
+PROD-001110,Post-it Up-sized intangible frame Writing Instruments,272,569,82841.0698852539,50142.51997756958,60.528576039666994,Low Revenue / High Profit
+PROD-001111,Avery Distributed dedicated groupware Writing Instruments,274,603,106591.98999023438,48491.32983016968,45.492470714368224,High Revenue / High Profit
+PROD-001112,Post-it Focused homogeneous open system Writing Instruments,266,604,38645.23016357422,15244.780021190643,39.448024909319585,Low Revenue / Low Profit
+PROD-001113,Post-it Fully-configurable modular neural-net Writing Instruments,264,601,150690.5696105957,68137.3498620987,45.21673123817541,High Revenue / High Profit
+PROD-001114,Mead Streamlined systemic Graphical User Interface Writing Instruments,310,632,116830.52003479004,48105.00989699364,41.17503703883953,High Revenue / High Profit
+PROD-001115,Post-it Function-based well-modulated matrix Writing Instruments,279,601,105914.57025146484,64195.47989654541,60.610622074121636,High Revenue / High Profit
+PROD-001116,Avery Up-sized secondary support Writing Instruments,314,676,134725.77996826172,78034.8201713562,57.92122353252614,High Revenue / High Profit
+PROD-001117,Office Depot Pre-emptive logistical concept Writing Instruments,277,611,57721.92011260986,33157.62997817993,57.44374046028374,Low Revenue / Low Profit
+PROD-001118,Post-it Upgradable heuristic concept Writing Instruments,262,542,65805.39000701904,25378.55996799469,38.56608093240952,Low Revenue / Low Profit
+PROD-001119,Five Star Devolved uniform moratorium Office Furniture,265,573,34817.54995346069,20857.149976730347,59.904128821842185,Low Revenue / Low Profit
+PROD-001120,Office Depot Pre-emptive contextually-based moratorium Office Furniture,259,530,59279.87998962402,24714.37002336979,41.69099199879561,Low Revenue / Low Profit
+PROD-001121,Sharpie Stand-alone analyzing moderator Office Furniture,280,637,140304.90957641602,81578.8099822998,58.14394537481849,High Revenue / High Profit
+PROD-001122,Avery Automated asynchronous secured line Office Furniture,296,643,52481.86001586914,20247.440018832684,38.57988267319487,Low Revenue / Low Profit
+PROD-001123,3M Business-focused well-modulated ability Office Furniture,279,602,57975.99010467529,32645.410091400146,56.30849948825205,Low Revenue / Low Profit
+PROD-001124,3M Open-source client-driven product Office Furniture,247,506,100464.7900390625,60417.02991104126,60.13751672357056,High Revenue / High Profit
+PROD-001125,Mead Focused asymmetric strategy Office Furniture,269,574,46247.96015930176,20716.589989423752,44.794602655047186,Low Revenue / Low Profit
+PROD-001126,Bic Distributed 24/7 data-warehouse Office Furniture,286,603,127261.4898071289,55284.640171051025,43.44176722654877,High Revenue / High Profit
+PROD-001127,PaperMate Profit-focused logistical hub Office Furniture,295,610,22413.93999862671,9629.410009860992,42.961701559168006,Low Revenue / Low Profit
+PROD-001128,Avery Centralized regional productivity Office Furniture,292,637,79735.17989349365,50791.08004760742,63.69971211634772,Low Revenue / High Profit
+PROD-001129,Mead Synchronized reciprocal matrices Office Furniture,281,634,13328.130014419556,4489.68000638485,33.68574587378361,Low Revenue / Low Profit
+PROD-001130,PaperMate Switchable mobile adapter Technology,279,595,94694.31970214844,60663.83995819092,64.06280772595758,High Revenue / High Profit
+PROD-001131,Sharpie Adaptive national neural-net Technology,286,614,58969.24997711182,23296.070095300674,39.50545429074094,Low Revenue / Low Profit
+PROD-001132,Mead Open-source 24/7 adapter Technology,282,606,57919.589904785156,22281.99001312256,38.47055901078071,Low Revenue / Low Profit
+PROD-001133,Staples Progressive uniform focus group Technology,279,609,138777.6595916748,58793.09997562319,42.36496000048567,High Revenue / High Profit
+PROD-001134,Five Star Public-key executive adapter Technology,258,572,91943.60014343262,57659.74996185303,62.712086400688506,High Revenue / High Profit
+PROD-001135,Mead Profit-focused tangible service-desk Technology,280,603,161249.35021972656,90054.78008842468,55.848150684459476,High Revenue / High Profit
+PROD-001136,3M Optional context-sensitive benchmark Technology,297,685,150563.5505065918,62114.60998106003,41.25474576819348,High Revenue / High Profit
+PROD-001137,Sharpie Cross-platform multi-tasking collaboration Technology,257,558,42633.38999938965,26799.679977416992,62.86077644259738,Low Revenue / Low Profit
+PROD-001138,PaperMate Front-line content-based process improvement Technology,297,648,30028.620002746582,17965.21001815796,59.826958470002154,Low Revenue / Low Profit
+PROD-001139,Avery Progressive eco-centric help-desk Technology,275,581,125296.61958312988,62019.91996097565,49.49847822496729,High Revenue / High Profit
+PROD-001140,PaperMate Future-proofed hybrid artificial intelligence Technology,305,618,115184.51008605957,68240.20997619629,59.2442594279482,High Revenue / High Profit
+PROD-001141,Five Star Multi-layered impactful knowledgebase Technology,273,600,127212.80996704102,61652.76997631788,48.46427808040025,High Revenue / High Profit
+PROD-001142,Staples Re-contextualized dynamic standardization Technology,277,593,13698.40002822876,4903.609990349039,35.796954244612536,Low Revenue / Low Profit
+PROD-001143,Five Star Face-to-face exuding software Storage,291,618,100403.49995422363,48884.09999012947,48.68764536337569,High Revenue / High Profit
+PROD-001144,PaperMate Configurable solution-oriented projection Storage,304,666,110151.87028503418,53799.07003337145,48.8408139545506,High Revenue / High Profit
+PROD-001145,Staples Virtual 5thgeneration array Storage,281,645,133836.89024353027,70815.06996917725,52.911472943163716,High Revenue / High Profit
+PROD-001146,PaperMate Open-architected homogeneous implementation Storage,279,618,70590.9900894165,40988.709953308105,58.06507303749153,Low Revenue / Low Profit
+PROD-001147,Staples Reactive methodical approach Storage,303,674,170366.67977905273,67658.76006817818,39.71361075764599,High Revenue / High Profit
+PROD-001148,Post-it Sharable 24/7 standardization Storage,291,667,100902.58996582031,60081.27007293701,59.54383340733762,High Revenue / High Profit
+PROD-001149,Avery Down-sized attitude-oriented methodology Storage,281,598,159868.11952209473,75905.2300055623,47.47990420633661,High Revenue / High Profit
+PROD-001150,Staples Optional secondary toolset Mail & Shipping,298,612,123850.9702911377,61514.77998638153,49.668387612772136,High Revenue / High Profit
+PROD-001151,Sharpie Managed non-volatile attitude Mail & Shipping,270,562,73394.73000335693,33712.59002494812,45.93325709271793,Low Revenue / Low Profit
+PROD-001152,Five Star Progressive 6thgeneration emulation Mail & Shipping,291,618,67794.65003967285,26171.370064020157,38.603886956721354,Low Revenue / Low Profit
+PROD-001153,Office Depot Extended system-worthy open system Mail & Shipping,271,614,87574.0,40205.51994228363,45.910338619092,Low Revenue / Low Profit
+PROD-001154,Staples Phased encompassing analyzer Mail & Shipping,280,592,106839.94996643066,61267.8999671936,57.34549668587837,High Revenue / High Profit
+PROD-001155,Bic Compatible systemic focus group Mail & Shipping,257,588,105731.7698059082,52138.2399725914,49.311801049298204,High Revenue / High Profit
+PROD-001156,Bic Quality-focused non-volatile protocol Presentation,283,633,123967.12005615234,65249.54017210007,52.634553535279785,High Revenue / High Profit
+PROD-001157,Bic Automated context-sensitive functionalities Presentation,296,597,137157.43035888672,83074.40013122559,60.56864722082701,High Revenue / High Profit
+PROD-001158,Bic Ameliorated demand-driven parallelism Presentation,273,580,123938.61991882324,59701.59004402161,48.170287907937556,High Revenue / High Profit
+PROD-001159,Office Depot Digitized web-enabled structure Presentation,268,565,128784.15016174316,54957.42987918854,42.674063392246765,High Revenue / High Profit
+PROD-001160,3M Object-based asynchronous framework Presentation,288,622,92115.34004211426,46286.47988319397,50.24839496009268,High Revenue / High Profit
+PROD-001161,Office Depot Diverse non-volatile encoding Presentation,293,616,32350.390003204346,14946.129981458187,46.20077216991126,Low Revenue / Low Profit
+PROD-001162,Five Star Re-contextualized human-resource service-desk Presentation,282,589,147942.1298828125,72816.97994160652,49.2199078107677,High Revenue / High Profit
+PROD-001163,3M Quality-focused full-range info-mediaries Calendars,283,623,65283.23986053467,41037.409912109375,62.860559616492786,Low Revenue / High Profit
+PROD-001164,Staples Versatile user-facing challenge Calendars,288,612,76190.22003173828,47634.58004760742,62.52059651194662,Low Revenue / High Profit
+PROD-001165,Post-it Team-oriented uniform artificial intelligence Calendars,256,556,134408.73016357422,55359.70997262001,41.18758499187347,High Revenue / High Profit
+PROD-001166,Five Star Profit-focused value-added hardware Calendars,292,620,41794.62987136841,16593.039949178696,39.70136833427452,Low Revenue / Low Profit
+PROD-001167,Five Star Business-focused bandwidth-monitored Internet solution Calendars,261,535,34004.9100189209,14364.80007135868,42.24331151991247,Low Revenue / Low Profit
+PROD-001168,Avery Focused asynchronous Graphical User Interface Calendars,277,613,133053.9499359131,49022.63002061844,36.844174896146065,High Revenue / High Profit
+PROD-001169,PaperMate Robust zero administration pricing structure Calendars,270,580,139832.1600341797,66288.49026298523,47.405754332037844,High Revenue / High Profit
+PROD-001170,3M Right-sized hybrid time-frame Calendars,281,600,79266.84992218018,32356.929926872253,40.820254568761726,Low Revenue / Low Profit
+PROD-001171,Avery Inverse 4thgeneration productivity Calendars,262,582,58412.43998718262,36430.01988983154,62.366886056849104,Low Revenue / Low Profit
+PROD-001172,Staples Future-proofed zero tolerance knowledge user Calendars,265,579,129473.74998474121,53825.33998775482,41.57239594442755,High Revenue / High Profit
+PROD-001173,Mead Pre-emptive discrete help-desk Calendars,297,672,23059.79002571106,11288.360007047653,48.95257066287867,Low Revenue / Low Profit
+PROD-001174,Avery Reactive homogeneous Internet solution Calendars,264,572,38961.250034332275,22276.58995628357,57.17627113260908,Low Revenue / Low Profit
+PROD-001175,Office Depot Enterprise-wide systemic paradigm Calendars,293,624,51620.13018798828,31503.010025024414,61.02853656179851,Low Revenue / Low Profit

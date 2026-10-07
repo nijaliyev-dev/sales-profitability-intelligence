@@ -1,0 +1,35 @@
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Secrets / credentials (never commit)
+*.env
+*.pem
+*.key
+config.local.*
+secrets.*
+
+# Raw data (large, not redistributed)
+data/raw/
+data/*.csv
+*.bak
+*.mdf
+*.ldf
+
+# Power BI temp / cache
+*.pbi/
+.pbi/
+*.pbix.bak
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
